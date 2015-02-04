@@ -1,0 +1,224 @@
+Report for Institution Code QM, Resource qm_all
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 340
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Benin ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Poland ; Times: 1
+	Country: Sweden ; Times: 7
+	Country: Switzerland ; Times: 1
+	Country: United States ; Times: 49
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-08 ; Times: 3
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-11 ; Times: 4
+	Date: 2015-01-12 ; Times: 3
+	Date: 2015-01-13 ; Times: 9
+	Date: 2015-01-14 ; Times: 1
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-16 ; Times: 6
+	Date: 2015-01-18 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-20 ; Times: 3
+	Date: 2015-01-21 ; Times: 3
+	Date: 2015-01-22 ; Times: 3
+	Date: 2015-01-23 ; Times: 3
+	Date: 2015-01-24 ; Times: 1
+	Date: 2015-01-25 ; Times: 1
+	Date: 2015-01-26 ; Times: 5
+	Date: 2015-01-28 ; Times: 9
+	Date: 2015-01-29 ; Times: 12
+	Date: 2015-01-30 ; Times: 1
+	Date: 2015-01-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Setonix brachyurus mappable:1" ; Times: 1
+	Query: "Monotremata mappable:1" ; Times: 1
+	Query: "tasmanian devil mappable:1" ; Times: 1
+	Query: "Aepyornis maximus" ; Times: 1
+	Query: "country:"Solomon Islands" class:Reptilia year >= 1992 year <= 2015" ; Times: 1
+	Query: "nile crocodile" ; Times: 1
+	Query: ""Ornithorhynchus anatinus" mappable:1" ; Times: 1
+	Query: "Molossus currentium" ; Times: 2
+	Query: "Bombina bombina" ; Times: 2
+	Query: "hydrelaps" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 1
+	Query: "white-breasted nuthatch" ; Times: 1
+	Query: "godmani" ; Times: 1
+	Query: "Candoia bibroni" ; Times: 2
+	Query: "stateprovince:"Virginia" genus:sterna" ; Times: 1
+	Query: "hippopotamus" ; Times: 1
+	Query: "butorides virescens mappable:1" ; Times: 1
+	Query: "crossocheilus" ; Times: 2
+	Query: "crocodylus" ; Times: 2
+	Query: "oxyeleotris" ; Times: 1
+	Query: ""panthera tigris" mappable:1" ; Times: 1
+	Query: "Macrotis lagotis mappable:1" ; Times: 3
+	Query: "Crax mitu" ; Times: 4
+	Query: "Prosopeia" ; Times: 1
+	Query: "pyrrhula" ; Times: 1
+	Query: "bombina bombina" ; Times: 1
+	Query: "Erethizon dorsatum mappable:1" ; Times: 1
+	Query: "family:Elephantidae" ; Times: 1
+	Query: ""Molossus currentium" mappable:1" ; Times: 1
+	Query: ""Eumops auripendulus"" ; Times: 1
+	Query: "bobolink" ; Times: 2
+	Query: "Hypsipetes amaurotis" ; Times: 1
+	Query: "Plegadis chihi" ; Times: 1
+	Query: "Ornithorhynchus anatinus mappable:1" ; Times: 1
+	Query: "Tachyglossus mappable:1" ; Times: 1
+	Query: "Wombat" ; Times: 1
+	Query: "Rhinella marina mappable:1" ; Times: 1
+	Query: "musophaga violacea" ; Times: 1
+	Query: "Leptonycteris" ; Times: 1
+	Query: "Kakapo" ; Times: 1
+	Query: "arctic tern" ; Times: 2
+	Query: "Alagoas curassow" ; Times: 2
+	Query: "pika" ; Times: 1
+	Query: "phrynosoma cornutum AND (NOT Texas NOT Mexico)" ; Times: 1
+	Query: "country:"Solomon Islands" class:Reptilia year >= 1995 year <= 2015" ; Times: 1
+	Query: "septemstriatus" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "monachus monachus" ; Times: 1
+	Query: "Platypus mappable:1" ; Times: 1
+	Query: "type:specimen Galbuliformes" ; Times: 1
+	Query: "ceratobatrachidae country:"solomon islands"" ; Times: 1
+	Query: "Micruroides" ; Times: 1
+	Query: "gorilla" ; Times: 1
+	Query: "Elephantidae" ; Times: 3
+	Query: "Siren intermedia" ; Times: 1
+	Query: "Crotalus Horridus stateprovince:"Kansas"" ; Times: 1
+	Query: "UA" ; Times: 1
+	Query: "genus:bubalus" ; Times: 1
+	Query: "Cyclorana platycephala" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 445 download events in this period)
+Total number of records downloaded: 5405 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5338
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Benin ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 6
+	Country: Germany ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-08 ; Times: 5
+	Date: 2015-01-09 ; Times: 3
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-12 ; Times: 4
+	Date: 2015-01-13 ; Times: 6
+	Date: 2015-01-14 ; Times: 7
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-16 ; Times: 3
+	Date: 2015-01-17 ; Times: 1
+	Date: 2015-01-19 ; Times: 2
+	Date: 2015-01-20 ; Times: 2
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-22 ; Times: 2
+	Date: 2015-01-24 ; Times: 1
+	Date: 2015-01-26 ; Times: 1
+	Date: 2015-01-27 ; Times: 1
+	Date: 2015-01-28 ; Times: 2
+	Date: 2015-01-29 ; Times: 3
+	Date: 2015-01-30 ; Times: 7
+	Date: 2015-01-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Salamandra" ; Times: 1
+	Query: "Furnariidae" ; Times: 1
+	Query: "family:Thraupidae type:specimen mappable:1" ; Times: 1
+	Query: "family:Cardinalidae type:specimen mappable:1" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Thamnophilidae" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "Phrynocephalus" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Diprotodontia mappable:1" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "family:Emberizidae type:specimen mappable:1" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "amazona albifrons" ; Times: 1
+	Query: ""Microtus pennsylvanicus"" ; Times: 2
+	Query: "Pycnonotus jocosus" ; Times: 2
+	Query: "Pipridae" ; Times: 1
+	Query: "Formicariidae" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"New Jersey"" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Aves" ; Times: 1
+	Query: "woodhousii" ; Times: 1
+	Query: "amazona ochrocephala" ; Times: 2
+	Query: "amazona auropalliata" ; Times: 1
+	Query: "Dasyproctidae" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "Nicobar Aves" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:aves" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Crotalus horridus country:"United States" mappable:1" ; Times: 1
+	Query: "myotis myotis" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "type:specimen stateprovince:"virginia" class:aves" ; Times: 1
+	Query: "Rhinocryptidae" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "downy woodpecker" ; Times: 1
+	Query: "type:specimen Galbuliformes" ; Times: 1
+	Query: "ceratobatrachidae country:"solomon islands"" ; Times: 1
+	Query: "belted kingfisher type:specimen" ; Times: 1
+	Query: "Carnivora america" ; Times: 1
+	Query: "Pycnonotidae" ; Times: 1
+	Query: "country:"Grenadines" class:Aves" ; Times: 1
+	Query: "Cotingidae" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "musophaga violacea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 54
+Total number of records downloaded: 5405
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 74
+Total number of records retrieved from searches: 340
+Number of download events that retrieved data from the resource: 54
+Total number of records downloaded: 5405
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
