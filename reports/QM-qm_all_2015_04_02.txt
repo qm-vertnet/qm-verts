@@ -1,0 +1,259 @@
+Report for Institution Code QM, Resource qm_all
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 103
+Number of records retrieved in searches: 1417
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 12
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: Germany ; Times: 9
+	Country: India ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Russia ; Times: 8
+	Country: South Korea ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 52
+	Country: Unknown ; Times: 1
+	Country: Vietnam ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 2
+	Date: 2015-03-02 ; Times: 3
+	Date: 2015-03-04 ; Times: 10
+	Date: 2015-03-05 ; Times: 4
+	Date: 2015-03-06 ; Times: 6
+	Date: 2015-03-07 ; Times: 3
+	Date: 2015-03-08 ; Times: 2
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 4
+	Date: 2015-03-11 ; Times: 5
+	Date: 2015-03-12 ; Times: 5
+	Date: 2015-03-13 ; Times: 14
+	Date: 2015-03-15 ; Times: 6
+	Date: 2015-03-16 ; Times: 3
+	Date: 2015-03-17 ; Times: 3
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-20 ; Times: 7
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-24 ; Times: 5
+	Date: 2015-03-27 ; Times: 4
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-29 ; Times: 1
+	Date: 2015-03-30 ; Times: 9
+	Date: 2015-03-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aplonis metallica year >= 1990 year <= 2015" ; Times: 1
+	Query: "Ptilinopus superbus year >= 1990 year <= 2015" ; Times: 1
+	Query: "Python molurus bivittatus type:specimen" ; Times: 1
+	Query: "hypsilurus modestus" ; Times: 1
+	Query: "Cotinga" ; Times: 1
+	Query: "specificepithet:apicalis genus:Leporillus" ; Times: 1
+	Query: "tarsier mappable:1" ; Times: 1
+	Query: "Gorilla gorilla" ; Times: 1
+	Query: "acanthurus achilles" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "Mixophyes fleayi" ; Times: 8
+	Query: "woodpecker" ; Times: 1
+	Query: "minous trachycephalus" ; Times: 2
+	Query: "Elseya irwini" ; Times: 1
+	Query: "Chelodina canni" ; Times: 1
+	Query: "Aplonis metallica year >= 1990 year <= 2015" ; Times: 1
+	Query: "canthigaster amboinensis" ; Times: 2
+	Query: "kangaroo rat" ; Times: 1
+	Query: "coris gaimard" ; Times: 1
+	Query: "blue marlin" ; Times: 1
+	Query: "coris aygula" ; Times: 1
+	Query: "anthus spinoletta" ; Times: 1
+	Query: "stegonotus cucullatus" ; Times: 2
+	Query: "myotis vivesi" ; Times: 1
+	Query: "Jynx" ; Times: 1
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "Chelodina longicollis" ; Times: 3
+	Query: "macgregoria" ; Times: 1
+	Query: "Phylloscopus poliocephalus" ; Times: 2
+	Query: "wood frog" ; Times: 1
+	Query: "xiphiidae" ; Times: 1
+	Query: "wood duck" ; Times: 1
+	Query: "Megophryidae" ; Times: 1
+	Query: "Pallid Harrier" ; Times: 1
+	Query: "minous" ; Times: 6
+	Query: "muscicapa striata" ; Times: 1
+	Query: "streaked shearwater" ; Times: 1
+	Query: "spermophilus undulatus" ; Times: 1
+	Query: "Pelochelys bibroni" ; Times: 1
+	Query: "micruroides euryxanthus" ; Times: 1
+	Query: "Ptilinopus superbus" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "specificepithet:erythromelas genus:Myzomela" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 2
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "specificepithet:aroaensis genus:Mallomys" ; Times: 1
+	Query: "riobambae" ; Times: 1
+	Query: "ptilinopus superbus year >= 1990 year <= 2015" ; Times: 1
+	Query: "Aplonis metallica year >= 1980 year <= 2015" ; Times: 1
+	Query: "Megapodius eremita" ; Times: 1
+	Query: "Stegonotus cucullatus" ; Times: 2
+	Query: "fleayi" ; Times: 2
+	Query: "Apodora" ; Times: 1
+	Query: "eremias arguta" ; Times: 1
+	Query: "APODORA PAPUANA" ; Times: 1
+	Query: "Vireo flavifrons" ; Times: 1
+	Query: "Stegonotus parvus" ; Times: 1
+	Query: "pervagor janthinosoma" ; Times: 1
+	Query: "punctulatus" ; Times: 1
+	Query: "Elephantidae" ; Times: 2
+	Query: "giraffe" ; Times: 1
+	Query: "Psittacula longicauda" ; Times: 8
+	Query: "Equus" ; Times: 1
+	Query: "Trachycephalus venulosus" ; Times: 1
+	Query: "Pipra filicauda" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "actinopterygii vorax" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "lamprotornis nitens" ; Times: 2
+	Query: "10-7-1853" ; Times: 3
+	Query: "Paradisaeidae year >= 1990 year <= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 298 download events in this period)
+Total number of records downloaded: 18462 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 17539
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Cyprus ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Japan ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 35
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 2
+	Date: 2015-03-02 ; Times: 3
+	Date: 2015-03-03 ; Times: 3
+	Date: 2015-03-04 ; Times: 5
+	Date: 2015-03-05 ; Times: 3
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-09 ; Times: 2
+	Date: 2015-03-11 ; Times: 2
+	Date: 2015-03-12 ; Times: 3
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-16 ; Times: 5
+	Date: 2015-03-17 ; Times: 2
+	Date: 2015-03-18 ; Times: 2
+	Date: 2015-03-19 ; Times: 3
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-21 ; Times: 1
+	Date: 2015-03-22 ; Times: 2
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-25 ; Times: 2
+	Date: 2015-03-26 ; Times: 4
+	Date: 2015-03-27 ; Times: 4
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Ptilinopus superbus year >= 1980 year <= 2015" ; Times: 1
+	Query: "specificepithet:cruentata genus:Myzomela" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Cacicus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "Python molurus type:specimen" ; Times: 1
+	Query: "chiroptera zambia" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "candoia carinata" ; Times: 1
+	Query: "candoia" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: ""regina septemvittata"" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Norops" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "genus:varanus" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Megophryidae" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "Leptobrachium" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "country:"Indonesia" class:Reptilia mappable:1" ; Times: 1
+	Query: "guiraca caerulea" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "micruroides euryxanthus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "Ptilinopus superbus" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "varanus" ; Times: 1
+	Query: "dermophis mexicanus" ; Times: 1
+	Query: "country:"turkmenistan" class:Reptilia mappable:1" ; Times: 1
+	Query: "Smilisca phaeota" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "agkistrodon contortrix" ; Times: 1
+	Query: "riobambae" ; Times: 2
+	Query: "ascaphus" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "Peromyscus maniculatus AND (NOT Mexico) year >= 1950 year <= 2000 mappable:1" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "acrochordus" ; Times: 1
+	Query: "chiroptera country:"Brazil"" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "Hylidae" ; Times: 1
+	Query: "mammalia country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "thamnophis elegans" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 244
+Total number of records retrieved from searches: 2177
+Number of download events that retrieved data from the resource: 184
+Total number of records downloaded: 70356
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 318
+Total number of records retrieved from searches: 2517
+Number of download events that retrieved data from the resource: 184
+Total number of records downloaded: 70356
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
