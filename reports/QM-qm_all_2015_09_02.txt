@@ -1,0 +1,359 @@
+Report for Institution Code QM, Resource Mammals
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 268
+Number of records retrieved in searches: 1960
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 268
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 2
+	Date: 2015-08-02 ; Times: 8
+	Date: 2015-08-03 ; Times: 8
+	Date: 2015-08-04 ; Times: 6
+	Date: 2015-08-05 ; Times: 13
+	Date: 2015-08-06 ; Times: 21
+	Date: 2015-08-07 ; Times: 10
+	Date: 2015-08-08 ; Times: 9
+	Date: 2015-08-09 ; Times: 1
+	Date: 2015-08-10 ; Times: 3
+	Date: 2015-08-11 ; Times: 2
+	Date: 2015-08-12 ; Times: 7
+	Date: 2015-08-13 ; Times: 8
+	Date: 2015-08-14 ; Times: 8
+	Date: 2015-08-17 ; Times: 2
+	Date: 2015-08-18 ; Times: 14
+	Date: 2015-08-19 ; Times: 6
+	Date: 2015-08-20 ; Times: 5
+	Date: 2015-08-21 ; Times: 14
+	Date: 2015-08-22 ; Times: 11
+	Date: 2015-08-24 ; Times: 20
+	Date: 2015-08-25 ; Times: 14
+	Date: 2015-08-26 ; Times: 20
+	Date: 2015-08-27 ; Times: 11
+	Date: 2015-08-28 ; Times: 17
+	Date: 2015-08-29 ; Times: 14
+	Date: 2015-08-30 ; Times: 4
+	Date: 2015-08-31 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Leiopelma type:specimen" ; Times: 1
+	Query: "Dromaius novaehollandiae" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 1
+	Query: ""Eumops auripendulus" mappable:1" ; Times: 2
+	Query: "Burramys" ; Times: 2
+	Query: "year >= 1755 year <= 1819" ; Times: 3
+	Query: "acrocephalus arundinaceus" ; Times: 8
+	Query: "coturnix coturnix" ; Times: 4
+	Query: "type:specimen specificepithet:hochstetteri genus:Leiopelma" ; Times: 1
+	Query: "4380" ; Times: 5
+	Query: "isurus oxyrinchus" ; Times: 2
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "arquata" ; Times: 2
+	Query: "7754" ; Times: 2
+	Query: ""Monticola rupestris"" ; Times: 1
+	Query: ""Lonchophylla mordax" mappable:1" ; Times: 1
+	Query: "sus scrofa" ; Times: 7
+	Query: "copsychus malabaricus" ; Times: 2
+	Query: "varied honeyeater" ; Times: 2
+	Query: "Plegadis chihi type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Hoplobatrachus occipitalis" ; Times: 1
+	Query: "year >= 1755 year <= 1797" ; Times: 2
+	Query: "Petaurus breviceps" ; Times: 5
+	Query: "order: pholidota" ; Times: 3
+	Query: "Hippopotamus" ; Times: 1
+	Query: "varanus gouldii" ; Times: 2
+	Query: "Phyllomedusa hypochondrialis" ; Times: 1
+	Query: "guttera edouardi" ; Times: 1
+	Query: "year >= 1755 year <= 1798" ; Times: 2
+	Query: "year >= 1755 year <= 1799" ; Times: 2
+	Query: "naultinus elegans" ; Times: 1
+	Query: "perdicula asiatica" ; Times: 1
+	Query: "genus:Strigops" ; Times: 1
+	Query: "Eugongylus" ; Times: 1
+	Query: "year >= 1755 year <= 1821" ; Times: 2
+	Query: "year >= 1755 year <= 1823" ; Times: 1
+	Query: "year >= 1755 year <= 1824" ; Times: 2
+	Query: "year >= 1755 year <= 1825" ; Times: 2
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "green heron" ; Times: 2
+	Query: "year:1858" ; Times: 1
+	Query: "year:1859" ; Times: 3
+	Query: "Eunectes" ; Times: 1
+	Query: ""acanthiza nana"" ; Times: 1
+	Query: "batesi" ; Times: 1
+	Query: "erithizon dorsatum" ; Times: 1
+	Query: "ammodramus year >= 1870 year <= 1875" ; Times: 1
+	Query: "emoia caeruleocauda papua new guinea" ; Times: 4
+	Query: "dasyornis" ; Times: 2
+	Query: "coral snake" ; Times: 1
+	Query: "phylloscopus borealis" ; Times: 1
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "varanidae gouldii" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 4
+	Query: "pycnonotus gularis" ; Times: 1
+	Query: "lichenostomus fasciogularis" ; Times: 1
+	Query: ""Lamprotornis nitens"" ; Times: 2
+	Query: "arctocephalus tropicalis" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 2
+	Query: "encheliophis gracilis" ; Times: 1
+	Query: "Struthio camelus" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 2
+	Query: "pristigenys niphonia" ; Times: 1
+	Query: "uvidicolus" ; Times: 2
+	Query: "Sminthopsis archeri" ; Times: 1
+	Query: "Dromaius" ; Times: 1
+	Query: "phyllurus" ; Times: 1
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "zosterops palpebrosus" ; Times: 1
+	Query: "emberiza hortulana" ; Times: 1
+	Query: "Barnardius" ; Times: 1
+	Query: "noddy" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Egretta thula type:specimen stateprovince:"California"" ; Times: 1
+	Query: "meliphaga vicina" ; Times: 1
+	Query: "talegalla fuscirostris" ; Times: 2
+	Query: "felis catus" ; Times: 1
+	Query: ""Peropteryx macrotis" mappable:1" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 16
+	Query: "galloperdix lunulata" ; Times: 2
+	Query: "distance(location,geopoint(23.88583769986199,-164.443359375))<260197" ; Times: 1
+	Query: "mangrove honeyeater" ; Times: 3
+	Query: "coracina remota class:Aves" ; Times: 1
+	Query: "varanus giganteus AND (NOT WAM)" ; Times: 1
+	Query: "varanus panoptes AND (NOT gouldii)" ; Times: 3
+	Query: "Leiopelma hochstetteri" ; Times: 2
+	Query: "lichenostomus versicolor" ; Times: 1
+	Query: "eunectes" ; Times: 1
+	Query: "Nilgiri Flycatcher" ; Times: 1
+	Query: "nile crocodile" ; Times: 1
+	Query: "cercartetus" ; Times: 2
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Pterodroma neglecta" ; Times: 1
+	Query: "rhinella" ; Times: 1
+	Query: "stokesii" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: ""Molossus currentium" mappable:1" ; Times: 1
+	Query: "Acrochordus" ; Times: 3
+	Query: "Cnemophilidae" ; Times: 1
+	Query: "Apteryx haastii" ; Times: 1
+	Query: "lophophorus impejanus" ; Times: 1
+	Query: "coracina tenuirostris" ; Times: 3
+	Query: "gerygone" ; Times: 1
+	Query: "micruroides euryxanthus" ; Times: 2
+	Query: "leucomelas" ; Times: 1
+	Query: "White-throated Sparrow" ; Times: 3
+	Query: "phylloscopus coronatus" ; Times: 2
+	Query: "osprey" ; Times: 1
+	Query: "specificepithet:undulatus genus:melopsittacus year >= 1979" ; Times: 3
+	Query: "Morelia class:Reptilia year >= 1400 year <= 2015" ; Times: 3
+	Query: "Grallaria type:specimen" ; Times: 1
+	Query: "Dasyurus hallucatus" ; Times: 1
+	Query: "6213" ; Times: 1
+	Query: "type:specimen genus:Leiopelma" ; Times: 4
+	Query: "Lichenostomus melanops cassidix" ; Times: 2
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: ""rhina"" ; Times: 1
+	Query: "varanus panoptes" ; Times: 6
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "hydrophis stokesii" ; Times: 1
+	Query: "specificepithet:ornatus genus:trichoglossus" ; Times: 1
+	Query: "varanus giganteus" ; Times: 3
+	Query: "pomadasys kaakan" ; Times: 5
+	Query: "year >= 1755 year <= 1810" ; Times: 1
+	Query: "aGALYCHNIS" ; Times: 1
+	Query: ""Grallina cyanoleuca" type:specimen year >= 1972 year <= 1973" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "Phyllurus" ; Times: 2
+	Query: "micruroides" ; Times: 1
+	Query: "lichmera flavicans" ; Times: 1
+	Query: "Casuarius casuarius" ; Times: 1
+	Query: "varanus panoptes institutioncode:QM AND (NOT gouldii)" ; Times: 1
+	Query: "remota class:Aves" ; Times: 1
+	Query: "Rhinella marina" ; Times: 1
+	Query: "pseudobranchus striatus striatus" ; Times: 1
+	Query: "cryptoxanthus type:specimen class:Aves" ; Times: 1
+	Query: "Hyla euphorbiacea" ; Times: 1
+	Query: "6547" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Prionodon" ; Times: 1
+	Query: "haliaeetus leucogaster" ; Times: 5
+	Query: "hylarana lepus" ; Times: 1
+	Query: "Apteryx owenii" ; Times: 1
+	Query: "Plethodon glutinosus stateprovince:"New Jersey"" ; Times: 1
+	Query: "craugastor" ; Times: 1
+	Query: "year >= 1755 year <= 1802" ; Times: 1
+	Query: "erithizon" ; Times: 1
+	Query: "year >= 1755 year <= 1800" ; Times: 4
+	Query: "procyon lotor colorado" ; Times: 1
+	Query: "sora" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 122 (out of 1138 download events in this period)
+Total number of records downloaded: 3129 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2612
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 122
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 2
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-04 ; Times: 3
+	Date: 2015-08-05 ; Times: 9
+	Date: 2015-08-06 ; Times: 2
+	Date: 2015-08-07 ; Times: 3
+	Date: 2015-08-09 ; Times: 1
+	Date: 2015-08-10 ; Times: 2
+	Date: 2015-08-11 ; Times: 2
+	Date: 2015-08-13 ; Times: 4
+	Date: 2015-08-17 ; Times: 14
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 3
+	Date: 2015-08-21 ; Times: 5
+	Date: 2015-08-23 ; Times: 2
+	Date: 2015-08-24 ; Times: 8
+	Date: 2015-08-25 ; Times: 15
+	Date: 2015-08-26 ; Times: 14
+	Date: 2015-08-27 ; Times: 6
+	Date: 2015-08-28 ; Times: 8
+	Date: 2015-08-29 ; Times: 7
+	Date: 2015-08-30 ; Times: 1
+	Date: 2015-08-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Aegothelidae" ; Times: 1
+	Query: ""Noctilio albiventris" mappable:1" ; Times: 1
+	Query: ""Eumops auripendulus" mappable:1" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "country:"panama"" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Nycticorax nycticorax type:specimen stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" class:Amphibia mappable:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Plegadis chihi type:specimen stateprovince:"California"" ; Times: 1
+	Query: "year >= 1755 year <= 1796" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 1
+	Query: "order: pholidota" ; Times: 1
+	Query: ""Phyllostomus hastatus" mappable:1" ; Times: 1
+	Query: "stateprovince:"New York" class:Amphibia mappable:1" ; Times: 1
+	Query: ""Eptesicus furinalis" mappable:1" ; Times: 1
+	Query: "Icterus leucopteryx" ; Times: 1
+	Query: "Tragopan type:specimen" ; Times: 1
+	Query: "genus:Strigops" ; Times: 1
+	Query: "Eugongylus" ; Times: 1
+	Query: "year >= 1755 year <= 1821" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "year:1858" ; Times: 1
+	Query: "year:1859" ; Times: 6
+	Query: ""Molossus rufus" mappable:1" ; Times: 1
+	Query: "Corvus brachyrhynchos type:specimen stateprovince:"California"" ; Times: 1
+	Query: ""Myotis albescens" mappable:1" ; Times: 1
+	Query: "didelphidae" ; Times: 1
+	Query: "Arremon" ; Times: 1
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "Mabuya" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: ""Eumops perotis" mappable:1" ; Times: 1
+	Query: "Piaya cayana" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "lichenostomus fasciogularis" ; Times: 1
+	Query: "Zenaida macroura type:specimen stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Troglodytidae" ; Times: 1
+	Query: ""Artibeus lituratus" mappable:1" ; Times: 3
+	Query: "specificepithet:floridana genus:neotoma" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Struthio camelus" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "Pterodroma neglecta" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Egretta thula type:specimen stateprovince:"California"" ; Times: 1
+	Query: "paradisaeidae" ; Times: 1
+	Query: ""Desmodus rotundus" mappable:1" ; Times: 1
+	Query: "Chiroptera country:"Costa Rica" year >= 1964 year <= 1964" ; Times: 1
+	Query: ""Peropteryx macrotis" mappable:1" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: ""eclectus"" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: ""Noctilio leporinus" mappable:1" ; Times: 1
+	Query: "lichenostomus versicolor" ; Times: 1
+	Query: ""Molossus molossus" mappable:1" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: ""Molossus currentium" mappable:1" ; Times: 1
+	Query: "didelphis" ; Times: 1
+	Query: ""Artibeus cinereus" mappable:1" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "sora" ; Times: 1
+	Query: "Morelia class:Reptilia year >= 1400 year <= 2015" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Dasyurus hallucatus" ; Times: 1
+	Query: "Cracidae" ; Times: 1
+	Query: "mykiss" ; Times: 1
+	Query: "Plethodon" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "Polioptila caerulea" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "pituophis melanoleucus year >= 1700 year <= 2015" ; Times: 1
+	Query: "Apteryx owenii" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 1
+	Query: "amazona" ; Times: 1
+	Query: ""Myotis nigricans" mappable:1" ; Times: 1
+	Query: "Callitrichidae" ; Times: 1
+	Query: ""Carollia perspicillata" mappable:1" ; Times: 3
+	Query: "hydrophis stokesii" ; Times: 1
+	Query: "year >= 1755 year <= 1819" ; Times: 3
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: ""Lasiurus cinereus" mappable:1" ; Times: 1
+	Query: "genus:Plethodon" ; Times: 2
+	Query: "country:"Costa Rica" class:Mammalia year >= 1962 year <= 1962" ; Times: 1
+	Query: ""Pteronotus personatus" mappable:1" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "anolis sagrei" ; Times: 1
+	Query: "Ectopistes migratorius type:specimen" ; Times: 1
+	Query: "nevada class:reptilia" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "Apteryx australis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 268
+Total number of records retrieved from searches: 1960
+Number of download events that retrieved data from the resource: 122
+Total number of records downloaded: 3129
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 268
+Total number of records retrieved from searches: 1960
+Number of download events that retrieved data from the resource: 122
+Total number of records downloaded: 3129
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
