@@ -1,0 +1,254 @@
+Report for Institution Code QM, Resource qm_all
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 159
+Number of records retrieved in searches: 1350
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 5
+	Country: Australia ; Times: 6
+	Country: Italy ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 5
+	Country: Denmark ; Times: 24
+	Country: Belgium ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 68
+	Country: Russia ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 25
+	Date: 2016-01-23 ; Times: 9
+	Date: 2016-01-20 ; Times: 6
+	Date: 2016-01-21 ; Times: 12
+	Date: 2016-01-26 ; Times: 7
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-03 ; Times: 4
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-29 ; Times: 8
+	Date: 2016-01-08 ; Times: 8
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-06 ; Times: 14
+	Date: 2016-01-19 ; Times: 3
+	Date: 2016-01-07 ; Times: 5
+	Date: 2016-01-13 ; Times: 7
+	Date: 2016-01-12 ; Times: 5
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-10 ; Times: 2
+	Date: 2016-01-15 ; Times: 3
+	Date: 2016-01-14 ; Times: 7
+	Date: 2016-01-31 ; Times: 6
+	Date: 2016-01-30 ; Times: 3
+	Date: 2016-01-24 ; Times: 3
+	Date: 2016-01-25 ; Times: 6
+	Date: 2016-01-18 ; Times: 6
+	Date: 2016-01-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sailfish" ; Times: 1
+	Query: "Molossus" ; Times: 1
+	Query: "Caretta caretta" ; Times: 2
+	Query: "myoictis melas" ; Times: 1
+	Query: "Tetrax tetrax" ; Times: 2
+	Query: "family:Notopteridae" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "coracina remota" ; Times: 1
+	Query: "genus:Lissotriton specificepithet:vulgaris" ; Times: 2
+	Query: "western spadefoot" ; Times: 1
+	Query: "family:Dasyatidae" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "euryceros prevostii" ; Times: 2
+	Query: "agalychnis" ; Times: 1
+	Query: "Boreal Owl" ; Times: 1
+	Query: "Tadorna Tadorna" ; Times: 2
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "Ptilorrhoa leucosticta" ; Times: 1
+	Query: "rhipidura brachyrhyncha" ; Times: 2
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Gorilla gorilla" ; Times: 1
+	Query: "Tree Swallow" ; Times: 2
+	Query: "lampropholis delicata institutioncode:QM" ; Times: 1
+	Query: "genus:Equus" ; Times: 3
+	Query: "crocodylus genus:Crocodylus" ; Times: 1
+	Query: "cnemophilus" ; Times: 1
+	Query: "vampire" ; Times: 10
+	Query: "Cuniculus" ; Times: 1
+	Query: "type:specimen class:insecta" ; Times: 1
+	Query: "Equus" ; Times: 3
+	Query: "minous" ; Times: 4
+	Query: "genus:Eleutherodactylus specificepithet:planirostris" ; Times: 1
+	Query: "homalopsidae" ; Times: 1
+	Query: "spotted owl" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "cercamia eremia" ; Times: 2
+	Query: "type:specimen genus:Atrichornis" ; Times: 2
+	Query: "Elephantidae" ; Times: 1
+	Query: "Siren intermedia" ; Times: 1
+	Query: "genus:Litoria specificepithet:tyleri" ; Times: 2
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "gazella" ; Times: 1
+	Query: "mobula japanica" ; Times: 1
+	Query: "Hippotragus niger" ; Times: 10
+	Query: "struthio type:specimen" ; Times: 1
+	Query: "francolinus capensis" ; Times: 2
+	Query: "zoothera heinei" ; Times: 2
+	Query: "genus:Neobatrachus specificepithet:aquilonius" ; Times: 1
+	Query: "crested gecko" ; Times: 2
+	Query: "bothrochilus boa" ; Times: 3
+	Query: "Gallus gallus" ; Times: 1
+	Query: "killer whale" ; Times: 1
+	Query: "limnodynastes terraereginae" ; Times: 1
+	Query: "genus:Litoria specificepithet:ewingii" ; Times: 1
+	Query: "cercamia" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "Sistrurus miliarius miliarius" ; Times: 1
+	Query: "Cinclosoma punctatum" ; Times: 1
+	Query: "plicofollis" ; Times: 1
+	Query: "Timber Rattlesnake" ; Times: 1
+	Query: "stegonotus" ; Times: 4
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "chaeropus" ; Times: 1
+	Query: "distance(location,geopoint(28.579036,-106.047516))&lt;15000" ; Times: 1
+	Query: "crocodylus novaeguineae" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 2
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "Ptilorrhoa castanonota" ; Times: 2
+	Query: "6977" ; Times: 1
+	Query: "Intellagama lesueurii" ; Times: 1
+	Query: "Eudyptes sclateri" ; Times: 18
+	Query: "parapriacanthus" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:streckeri" ; Times: 1
+	Query: "gbifdatasetid:a79c2b50-6c8a-11de-8226-b8a03c50a862" ; Times: 1
+	Query: "whale" ; Times: 2
+	Query: "hummingbird" ; Times: 1
+	Query: "Daphoenositta papuensis" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "genus:Gastrotheca" ; Times: 1
+	Query: "scolopsis vosmeri" ; Times: 1
+	Query: "mud snake" ; Times: 2
+	Query: "type:specimen genus:Cacatua order:psittaciformes country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "oriolus kundoo" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 69 (out of 507 download events in this period)
+Total number of records downloaded: 2236
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 1
+	Country: United States ; Times: 52
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-31 ; Times: 2
+	Date: 2016-01-05 ; Times: 6
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-21 ; Times: 6
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 4
+	Date: 2016-01-02 ; Times: 4
+	Date: 2016-01-03 ; Times: 8
+	Date: 2016-01-28 ; Times: 5
+	Date: 2016-01-29 ; Times: 4
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-13 ; Times: 5
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-10 ; Times: 2
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla eximia" ; Times: 1
+	Query: "family:Acipenseridae country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "&#34;Diglossa cyanea&#34;" ; Times: 1
+	Query: "sagrei" ; Times: 1
+	Query: "&#34;Coeligena torquata&#34;" ; Times: 1
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "family:Catostomidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "genus:Neobatrachus specificepithet:sutor" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "&#34;Masius chrysopterus&#34;" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "lampropholis delicata institutioncode:QM" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "family:Moronidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "mobula japanica" ; Times: 1
+	Query: "Crotalus viridis Nevada" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "&#34;Thraupis cyanocephala&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "family:Percidae country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Heliangelus amethysticollis&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "&#34;Syndactyla rufosuperciliata&#34;" ; Times: 1
+	Query: "Triprion petasatus" ; Times: 1
+	Query: "Craugastor rugulosus" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "genus:haliaeetus year &gt;= 1996 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "family:Sciaenidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "family:Paralichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "family:Pleuronectidae country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Lafresnaya lafresnayi&#34;" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Taricha stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
