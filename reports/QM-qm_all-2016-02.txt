@@ -1,0 +1,236 @@
+Report for Institution Code QM, Resource qm_all
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 142
+Number of records retrieved in searches: 1652
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 72
+	Country: Netherlands ; Times: 9
+	Country: Czech Republic ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 8
+	Country: Denmark ; Times: 1
+	Country: Russia ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-18 ; Times: 11
+	Date: 2016-02-19 ; Times: 5
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-13 ; Times: 4
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 3
+	Date: 2016-02-16 ; Times: 23
+	Date: 2016-02-17 ; Times: 6
+	Date: 2016-02-14 ; Times: 3
+	Date: 2016-02-15 ; Times: 6
+	Date: 2016-02-29 ; Times: 9
+	Date: 2016-02-09 ; Times: 8
+	Date: 2016-02-22 ; Times: 7
+	Date: 2016-02-21 ; Times: 3
+	Date: 2016-02-20 ; Times: 2
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 6
+	Date: 2016-02-24 ; Times: 3
+	Date: 2016-02-01 ; Times: 5
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-02 ; Times: 7
+	Date: 2016-02-05 ; Times: 9
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-06 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "copsychus malabaricus-india" ; Times: 1
+	Query: "Elephantidae mappable:1" ; Times: 1
+	Query: "Megadyptes" ; Times: 1
+	Query: "country:&#34;Portugal&#34;" ; Times: 1
+	Query: "Meliphaga cinereifrons" ; Times: 1
+	Query: "specificepithet:boans genus:Hyla country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "balaenoptera edeni" ; Times: 1
+	Query: "cacomantis passerinus" ; Times: 4
+	Query: "phylloscopus" ; Times: 1
+	Query: "hoplodactylus" ; Times: 1
+	Query: "Megastictus" ; Times: 1
+	Query: "Sus scrofa scrofa" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "emydocephalus" ; Times: 1
+	Query: "Atrichornis rufescens" ; Times: 1
+	Query: "specificepithet:kempi genus:Lepidochelys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "paragobiodon melanosoma" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "felis catus type:specimen" ; Times: 1
+	Query: "Anas gibberifrons" ; Times: 4
+	Query: "thalurania watertonii" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "bothrochilus" ; Times: 1
+	Query: "larus fuscus" ; Times: 1
+	Query: "sieboldii" ; Times: 1
+	Query: "Istiophoridae" ; Times: 1
+	Query: "rhipidura nigromentalis" ; Times: 1
+	Query: "Rallicula" ; Times: 2
+	Query: "gbifdatasetid:a79c2b50-6c8a-11de-8226-b8a03c50a862 dakota" ; Times: 1
+	Query: "vampire" ; Times: 11
+	Query: "genus:Cyclorana specificepithet:maini" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 1
+	Query: "Meliarchus sclateri" ; Times: 1
+	Query: "homalopsidae" ; Times: 1
+	Query: "genus:Rhinella specificepithet:marina" ; Times: 2
+	Query: "megapodius layardi" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Macgregoria pulchra" ; Times: 3
+	Query: "meliphaga vicina" ; Times: 1
+	Query: "Petrogale godmani" ; Times: 2
+	Query: "Anthornis melanura" ; Times: 2
+	Query: "felis catus" ; Times: 1
+	Query: "Thalassarche steadi" ; Times: 1
+	Query: "genus:Crocodylus" ; Times: 1
+	Query: "bothrochilus boa" ; Times: 2
+	Query: "specificepithet:fulvius genus:Micrurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 1
+	Query: "genus:Crinia specificepithet:parinsignifera" ; Times: 1
+	Query: "Diomedea bulleri" ; Times: 1
+	Query: "genus:Uperoleia specificepithet:lithomoda" ; Times: 1
+	Query: "Cophixalus ornatus" ; Times: 3
+	Query: "Caprimulgus year &gt;= 1905 year &lt;= 1905" ; Times: 2
+	Query: "Apteryx" ; Times: 1
+	Query: "Todiramphus chloris" ; Times: 1
+	Query: "irediparra" ; Times: 2
+	Query: "Rallidae (Rallidae AND atra)" ; Times: 1
+	Query: "specificepithet:marina genus:Rhinella country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "cercamia" ; Times: 1
+	Query: "type:specimen genus:sus" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "Vormela peregusna" ; Times: 1
+	Query: "amandava amandava" ; Times: 1
+	Query: "Philemon cockerelli" ; Times: 2
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 2
+	Query: "dolphin" ; Times: 1
+	Query: "Rhinella" ; Times: 2
+	Query: "Coracias cyanogaster" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Dermochelys Coriacea" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "varanus panoptes" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "specificepithet:brachyrhyncha genus:Rhipidura" ; Times: 2
+	Query: "Phylloscopus type:specimen" ; Times: 2
+	Query: "Lepidochelys kempi" ; Times: 4
+	Query: "Pitta brachyura type:specimen" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "Macropus rufus" ; Times: 2
+	Query: "Rhinella marina" ; Times: 1
+	Query: "Pituophis melanoleucus Nevada" ; Times: 1
+	Query: "sipodotus" ; Times: 1
+	Query: "Rallidae (Rallidae AND tabuensis)" ; Times: 1
+	Query: "Crotalus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Synodus sageneus" ; Times: 1
+	Query: "Anthornis" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Heptranchias perlo" ; Times: 2
+	Query: "type:specimen genus:Atrichornis" ; Times: 3
+	Query: "Ornithorhynchus anatinus" ; Times: 2
+	Query: "genus:Atrichornis" ; Times: 1
+	Query: "specificepithet:phaeota genus:Smilisca country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "tanager" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 512 download events in this period)
+Total number of records downloaded: 1328
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 36
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-29 ; Times: 2
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-18 ; Times: 3
+	Date: 2016-02-19 ; Times: 7
+	Date: 2016-02-26 ; Times: 11
+	Date: 2016-02-25 ; Times: 3
+	Date: 2016-02-24 ; Times: 3
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Gymnophiona" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 2
+	Query: "Delphinidae" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "notophthalmus viridescens mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1906 year &lt;= 1910" ; Times: 1
+	Query: "hyla AND bistincta OR calthula OR pentheter" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:California" ; Times: 5
+	Query: "genus:Gopherus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:California" ; Times: 3
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1964" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1975 year &lt;= 1979" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "Atrichornis rufescens" ; Times: 1
+	Query: "Pseudacris nigrita" ; Times: 1
+	Query: "Pituophis melanoleucus Nevada" ; Times: 2
+	Query: "anolis mappable:1" ; Times: 1
+	Query: "genus:Scaphiopus specificepithet:holbrookii" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Dicamptodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "capito" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Saltator" ; Times: 1
+
+
+End of report.
