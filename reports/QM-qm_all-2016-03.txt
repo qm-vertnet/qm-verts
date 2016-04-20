@@ -1,0 +1,119 @@
+Report for Institution Code QM, Resource qm_all
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 746
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 31
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 7
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-12 ; Times: 1
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-08 ; Times: 3
+	Date: 2016-03-09 ; Times: 3
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 3
+	Date: 2016-03-04 ; Times: 3
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-02 ; Times: 4
+	Date: 2016-03-03 ; Times: 11
+	Date: 2016-03-13 ; Times: 4
+	Date: 2016-03-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "rhabdamia" ; Times: 2
+	Query: "rhipidura nigromentalis" ; Times: 1
+	Query: "chrysococcyx minutillus" ; Times: 7
+	Query: "genus:Pseudacris specificepithet:clarkii" ; Times: 1
+	Query: "sittasomus mappable:1" ; Times: 1
+	Query: "centropus toulou" ; Times: 1
+	Query: "mesoplodon" ; Times: 1
+	Query: "VIPERA" ; Times: 2
+	Query: "Thomomys townsendii usa" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Western fence lizard" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "vampire" ; Times: 1
+	Query: "Calliophis" ; Times: 1
+	Query: "Lithobates sphenocephalus" ; Times: 2
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Gerbillurus" ; Times: 1
+	Query: "megalaima viridis" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "white lipped frog" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 3
+	Query: "pycnonotus jocosus australia" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1876 year &lt;= 1890" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 2
+	Query: "Sea snake" ; Times: 3
+	Query: "genus:Anaxyrus specificepithet:americanus" ; Times: 1
+	Query: "Psittacula" ; Times: 1
+	Query: "crocodylus" ; Times: 2
+	Query: "alcedo" ; Times: 1
+	Query: "Babyrousa" ; Times: 1
+	Query: "hyla euphorbiacea" ; Times: 1
+	Query: "PUFFINUS LHERMINIERI DICHROUS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 230 download events in this period)
+Total number of records downloaded: 430
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 9
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-10 ; Times: 5
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "spea bombifrons" ; Times: 1
+	Query: "blue- winged teal" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "Babyrousa" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1986 year &lt;= 1989" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "chordeiles minor mappable:1" ; Times: 1
+
+
+End of report.
