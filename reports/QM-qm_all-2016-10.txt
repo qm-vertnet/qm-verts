@@ -1,0 +1,59 @@
+Report for Institution Code QM, Resource qm_all
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 539
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-31 ; Times: 5
+	Date: 2016-10-03 ; Times: 4
+	Date: 2016-10-19 ; Times: 3
+	Date: 2016-10-08 ; Times: 1
+	Date: 2016-10-14 ; Times: 6
+	Date: 2016-10-07 ; Times: 1
+	Date: 2016-10-05 ; Times: 3
+	Date: 2016-10-11 ; Times: 3
+	Date: 2016-10-10 ; Times: 1
+	Date: 2016-10-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Numida meleagris 1" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "Carcharodon carcharias mappable:1" ; Times: 3
+	Query: "specificepithet:lepturus genus:Trichiurus mappable:1" ; Times: 1
+	Query: "Setonix brachyurus mappable:1" ; Times: 3
+	Query: "vampire" ; Times: 5
+	Query: "specificepithet:caretta genus:Caretta mappable:1" ; Times: 1
+	Query: "Psittacula krameri 1" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "Pandion haliaetus mappable:1" ; Times: 6
+	Query: "Trachemys scripta 1" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus mappable:1" ; Times: 1
+	Query: "specificepithet:carcharias genus:Carcharodon mappable:1" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
