@@ -1,0 +1,311 @@
+Report for Institution Code QM, Resource qm_all
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 252
+Number of records retrieved in searches: 2431
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 148
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 7
+	Country: Singapore ; Times: 17
+	Country: Unknown ; Times: 28
+	Country: Philippines ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 8
+	Country: Germany ; Times: 7
+	Country: India ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: China ; Times: 4
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 6
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 7
+	Date: 2018-04-23 ; Times: 7
+	Date: 2018-04-22 ; Times: 11
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 6
+	Date: 2018-04-27 ; Times: 3
+	Date: 2018-04-26 ; Times: 6
+	Date: 2018-04-25 ; Times: 10
+	Date: 2018-04-24 ; Times: 12
+	Date: 2018-04-03 ; Times: 8
+	Date: 2018-04-02 ; Times: 51
+	Date: 2018-04-05 ; Times: 17
+	Date: 2018-04-04 ; Times: 8
+	Date: 2018-04-06 ; Times: 5
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 7
+	Date: 2018-04-16 ; Times: 7
+	Date: 2018-04-12 ; Times: 9
+	Date: 2018-04-13 ; Times: 8
+	Date: 2018-04-10 ; Times: 14
+	Date: 2018-04-11 ; Times: 10
+	Date: 2018-04-30 ; Times: 10
+	Date: 2018-04-17 ; Times: 12
+	Date: 2018-04-14 ; Times: 4
+	Date: 2018-04-18 ; Times: 6
+	Date: 2018-04-19 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "petroica bivittata" ; Times: 1
+	Query: "Crocodylus novaeguineae" ; Times: 2
+	Query: "Black marlin" ; Times: 3
+	Query: "ostracion meleagris" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Ptilinopus insularis" ; Times: 2
+	Query: "timber rattlesnake" ; Times: 4
+	Query: "ramphotyphlops polygrammicus" ; Times: 1
+	Query: "Paramythia montium" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis" ; Times: 7
+	Query: "Misgurnus anguillicaudatus" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "scarlet tanager" ; Times: 3
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "lithobates catesbeianus distance(location,geopoint(30.172761958001654,-97.12713360786438))&lt;277281" ; Times: 1
+	Query: "Gymnobelideus leadbeateri mappable:1" ; Times: 7
+	Query: "hydrophis curtus" ; Times: 2
+	Query: "Anaxyrus speciosus" ; Times: 1
+	Query: "lobodon" ; Times: 1
+	Query: "Crocodylus" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "genus:rhipidura class:aves (vanuatu)" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 4
+	Query: "Tropidonophis mairii" ; Times: 2
+	Query: "specificepithet:cucullatus genus:Stegonotus country:&#34;New Guinea&#34;" ; Times: 1
+	Query: "ailuroedus melanotis" ; Times: 3
+	Query: "genus:Cophixalus specificepithet:mcdonaldi" ; Times: 1
+	Query: "perdicula asiatica" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "Dactylopsila trivirgata mappable:1" ; Times: 5
+	Query: "rhinella marina" ; Times: 2
+	Query: "hydrophis ornatus" ; Times: 5
+	Query: "family:typhlopidae country:&#34;indonesia&#34;" ; Times: 1
+	Query: "White-faced ibis" ; Times: 2
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "specificepithet:novaehollandiae genus:Tachybaptus" ; Times: 5
+	Query: "specificepithet:mairii genus:Tropidonophis country:&#34;New Guinea&#34;" ; Times: 1
+	Query: "Hyaena brunnea" ; Times: 2
+	Query: "specificepithet:concolor genus:Felis" ; Times: 1
+	Query: "rastrelliger faughni" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Stegonotus country:&#34;Australia&#34;" ; Times: 1
+	Query: "nocturnal" ; Times: 1
+	Query: "genus:trachops " ; Times: 1
+	Query: "specificepithet:gutturalis genus:Anthus" ; Times: 2
+	Query: "genus:hirundapus" ; Times: 2
+	Query: "vampire" ; Times: 3
+	Query: "garrulax cachinnans" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "Alder Flycatcher" ; Times: 3
+	Query: "Pseudacris clarkii" ; Times: 1
+	Query: "stingray" ; Times: 1
+	Query: "trachypithecus" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 4
+	Query: "axis axis cervidae" ; Times: 1
+	Query: "amethistina" ; Times: 8
+	Query: "Chenonetta jubata" ; Times: 2
+	Query: "specificepithet:triseriata genus:pseudacris stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "Ingerophrynus" ; Times: 2
+	Query: "Apogon doryssa" ; Times: 1
+	Query: "phrynobatrachus auritus" ; Times: 1
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "specificepithet:cucullatus genus:Stegonotus" ; Times: 1
+	Query: "pezoporus" ; Times: 2
+	Query: "zebrus" ; Times: 1
+	Query: "genus:Kaloula specificepithet:baleata" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 5
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;Australia&#34; year &gt;= 1960 year &lt;= 1980" ; Times: 1
+	Query: "white-faced ibis" ; Times: 1
+	Query: "lissotriton" ; Times: 1
+	Query: "grampus" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "coeligena prunellei" ; Times: 2
+	Query: "Yellow-bellied Flycatcher" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "Tandanus bostocki" ; Times: 1
+	Query: "micropechis ikaheka" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 5
+	Query: "vntype:specimen genus:Oceanites" ; Times: 1
+	Query: "eskimo curlew" ; Times: 5
+	Query: "country:&#34;South Korea&#34; continent:Asia" ; Times: 1
+	Query: "Lates niloticus" ; Times: 4
+	Query: "specificepithet:Catus genus:Felis" ; Times: 2
+	Query: "macropus rufus" ; Times: 2
+	Query: "specificepithet:poliocephalus genus:Poliocephalus" ; Times: 4
+	Query: "Eumops perotis" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 4
+	Query: "Garrulax cachinnans" ; Times: 5
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Cuora" ; Times: 1
+	Query: "Casuarius" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;Australia&#34; year &gt;= 1961 year &lt;= 1980" ; Times: 2
+	Query: "Nestor notabilis" ; Times: 1
+	Query: "tree swallow" ; Times: 2
+	Query: "western mud snake" ; Times: 1
+	Query: "Lagocephalus sceleratus " ; Times: 4
+	Query: "Epinephelus chlorostigma" ; Times: 27
+	Query: "adenomus" ; Times: 1
+	Query: "porcus" ; Times: 1
+	Query: "flaviventer" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "Pteropus alecto" ; Times: 1
+	Query: "Euphonia elegantissima mappable:1" ; Times: 1
+	Query: "Phrynocephalus helioscopus mappable:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis country:&#34;Australia&#34;" ; Times: 2
+	Query: "Rhinella marina" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis country:&#34;Guinea&#34;" ; Times: 1
+	Query: "hyla euphorbiacea" ; Times: 1
+	Query: "Tropidonophis" ; Times: 1
+	Query: "blue whale" ; Times: 3
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "ailuroedus stonii" ; Times: 1
+	Query: "genus:aepyornis" ; Times: 2
+	Query: "specificepithet:mairii genus:Tropidonophis country:&#34;Indonesia&#34;" ; Times: 2
+	Query: "bubalus bubalis" ; Times: 2
+	Query: "Cotinga cotinga" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 95 (out of 1359 download events in this period)
+Total number of records downloaded: 2490
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 19
+	Country: Canada ; Times: 2
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: United States ; Times: 53
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-28 ; Times: 3
+	Date: 2018-04-23 ; Times: 7
+	Date: 2018-04-22 ; Times: 6
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 4
+	Date: 2018-04-27 ; Times: 3
+	Date: 2018-04-25 ; Times: 5
+	Date: 2018-04-24 ; Times: 17
+	Date: 2018-04-03 ; Times: 7
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-05 ; Times: 6
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 5
+	Date: 2018-04-08 ; Times: 2
+	Date: 2018-04-16 ; Times: 3
+	Date: 2018-04-12 ; Times: 4
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-30 ; Times: 3
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-15 ; Times: 3
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "Gastrophryne olivacea" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "Nestor notabilis" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "Heptapteridae" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis" ; Times: 1
+	Query: "Yellow-bellied Flycatcher" ; Times: 1
+	Query: "Gambusia holbrooki" ; Times: 2
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 5
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "distance(location,geopoint(38.89332,-78.14678))&lt;50000" ; Times: 1
+	Query: "Phrynocephalus guttatus mappable:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Pseudacris clarkii" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "New Guinea" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 2
+	Query: "Phrynocephalus helioscopus mappable:1" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "eskimo curlew" ; Times: 2
+	Query: "Anaxyrus speciosus" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Alder Flycatcher" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus continent:North America" ; Times: 2
+	Query: "Acris crepitans" ; Times: 1
+	Query: "specificepithet:riobambae genus:Gastrotheca" ; Times: 2
+	Query: "Lates niloticus" ; Times: 1
+	Query: "country:&#34;brazil&#34;" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "incilius valliceps" ; Times: 2
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "perdicula asiatica" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Stegonotus" ; Times: 1
+	Query: "Garrulax cachinnans" ; Times: 1
+	Query: "distance(location,geopoint(29.67647,-82.00909))&lt;50000" ; Times: 1
+	Query: "leptopelis notatus" ; Times: 1
+	Query: "Monopterus albus" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "Notophthalmus viridescens" ; Times: 1
+	Query: "Hyla squirella" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+
+
+End of report.
