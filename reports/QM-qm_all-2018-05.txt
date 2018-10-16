@@ -1,0 +1,383 @@
+Report for Institution Code QM, Resource qm_all
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 379
+Number of records retrieved in searches: 8280
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 25
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 5
+	Country: Argentina ; Times: 3
+	Country: Norway ; Times: 6
+	Country: Israel ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: China ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 10
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: United States ; Times: 228
+	Country: Sweden ; Times: 7
+	Country: South Africa ; Times: 2
+	Country: Tunisia ; Times: 4
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 57
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 10
+	Date: 2018-05-21 ; Times: 6
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 55
+	Date: 2018-05-24 ; Times: 50
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 12
+	Date: 2018-05-04 ; Times: 33
+	Date: 2018-05-05 ; Times: 28
+	Date: 2018-05-02 ; Times: 9
+	Date: 2018-05-03 ; Times: 4
+	Date: 2018-05-01 ; Times: 4
+	Date: 2018-05-08 ; Times: 17
+	Date: 2018-05-09 ; Times: 6
+	Date: 2018-05-31 ; Times: 11
+	Date: 2018-05-30 ; Times: 14
+	Date: 2018-05-15 ; Times: 6
+	Date: 2018-05-14 ; Times: 5
+	Date: 2018-05-17 ; Times: 11
+	Date: 2018-05-16 ; Times: 42
+	Date: 2018-05-11 ; Times: 12
+	Date: 2018-05-10 ; Times: 16
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-19 ; Times: 3
+	Date: 2018-05-18 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 2
+	Query: "sailfish" ; Times: 1
+	Query: "&#34;South Korea&#34;" ; Times: 1
+	Query: "specificepithet:aurantiirostris genus:Saltator" ; Times: 1
+	Query: "petroica bivittata" ; Times: 1
+	Query: "genus:podarcis" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "specificepithet:maini genus:Cyclorana institutioncode:QM" ; Times: 3
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:QM" ; Times: 3
+	Query: "Neotrygon" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "genus:Orcaella" ; Times: 1
+	Query: "Agapornis lilianae " ; Times: 19
+	Query: "specificepithet:cyanocephala genus:Euphonia" ; Times: 1
+	Query: "hemiphyllodactylus yunnanensis" ; Times: 2
+	Query: "specificepithet:dorsalis genus:Afrixalus institutioncode:QM" ; Times: 5
+	Query: "Macropus rufus " ; Times: 1
+	Query: "specificepithet:mentalis genus:Pipra" ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 4
+	Query: "genus:Hoplarchus" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "specificepithet:occipitalis genus:Chlorophonia" ; Times: 1
+	Query: "specificepithet:intermontana genus:Spea institutioncode:QM" ; Times: 3
+	Query: "Psephotus pulcherrimus" ; Times: 7
+	Query: "specificepithet:tetracanthus family:Cichlidae" ; Times: 2
+	Query: "Caecilia" ; Times: 1
+	Query: "specificepithet:sibiricus genus:Tamias mappable:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Mantophryne institutioncode:QM" ; Times: 3
+	Query: "specificepithet:filicauda genus:Pipra" ; Times: 1
+	Query: "Bombina variegata" ; Times: 2
+	Query: "Psittacula krameri mappable:1" ; Times: 1
+	Query: "specificepithet:scutatus genus:Pyroderus" ; Times: 1
+	Query: "specificepithet:tristis genus:Acridotheres mappable:1" ; Times: 1
+	Query: "specificepithet:melanogaster genus:Ramphocelus" ; Times: 1
+	Query: "specificepithet:bridgesi genus:Thamnophilus" ; Times: 1
+	Query: "specificepithet:regulus genus:Machaeropterus" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "genus:Amphilophus" ; Times: 2
+	Query: "specificepithet:venulosus genus:Trachycephalus institutioncode:QM" ; Times: 3
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:QM" ; Times: 3
+	Query: "Gymnobelideus" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 3
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "specificepithet:callidryas genus:Agalychnis institutioncode:QM" ; Times: 5
+	Query: "Anomalospiza" ; Times: 1
+	Query: "specificepithet:carpintis genus:Herichthys" ; Times: 1
+	Query: "genus:podarcis coordinateuncertaintyinmeters&lt;10000" ; Times: 2
+	Query: "specificepithet:scripta genus:Trachemys mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Dierogekko" ; Times: 1
+	Query: "specificepithet:brevirostris genus:Orcaella" ; Times: 6
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "specificepithet:tyrannina genus:Cercomacra" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "Pitta erythrogaster" ; Times: 2
+	Query: "specificepithet:meeki genus:Thorichthys" ; Times: 1
+	Query: "specificepithet:griseicapillus genus:Sittasomus" ; Times: 1
+	Query: "specificepithet:limnocharis genus:Fejervarya institutioncode:QM" ; Times: 3
+	Query: "specificepithet:lutra genus:Lutra" ; Times: 6
+	Query: "country:&#34;Pitcairn&#34;" ; Times: 1
+	Query: "specificepithet:penduliger genus:Cephalopterus" ; Times: 1
+	Query: "specificepithet:gabonicus genus:Scotobleps institutioncode:QM" ; Times: 3
+	Query: "Long-billed Dowitcher" ; Times: 1
+	Query: "vampire" ; Times: 3
+	Query: "specificepithet:atratus genus:Cygnus mappable:1" ; Times: 1
+	Query: "specificepithet:igniventris genus:Anisognathus" ; Times: 1
+	Query: "Cyclorana alboguttata" ; Times: 3
+	Query: "specificepithet:bivittatus genus:Basileuterus" ; Times: 1
+	Query: "Notaden bennettii" ; Times: 1
+	Query: "genus:coeligena class:aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:simplex genus:Pachycephala year &gt;= 1970 year &lt;= 2018" ; Times: 4
+	Query: "Leadbeater" ; Times: 1
+	Query: "western sandpiper" ; Times: 1
+	Query: "Testudo horsfieldii" ; Times: 2
+	Query: "country:&#34;South Korea&#34;" ; Times: 1
+	Query: "genus:Herotilapia" ; Times: 1
+	Query: "ephippiorhynchus" ; Times: 1
+	Query: "Gallirallus philippensis" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "specificepithet:cyanea genus:Chlorophonia" ; Times: 1
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:QM" ; Times: 3
+	Query: "cuscus" ; Times: 2
+	Query: "Andrias japonicus" ; Times: 2
+	Query: "specificepithet:mexicana genus:Tangara" ; Times: 1
+	Query: "specificepithet:geayi family:Cichlidae" ; Times: 1
+	Query: "specificepithet:purpurata genus:Querula" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:QM" ; Times: 4
+	Query: "specificepithet:hochstetteri genus:Leiopelma institutioncode:QM" ; Times: 3
+	Query: "Salamandrella keyserlingii" ; Times: 1
+	Query: "Labeo chrysophekadion" ; Times: 2
+	Query: "specificepithet:marina genus:Rhinella institutioncode:QM" ; Times: 3
+	Query: "aardvark" ; Times: 1
+	Query: "specificepithet:maculatus genus:Amietophrynus institutioncode:QM" ; Times: 4
+	Query: "specificepithet:guttata genus:Tangara" ; Times: 1
+	Query: "specificepithet:pulchra genus:Kaloula institutioncode:QM" ; Times: 3
+	Query: "specificepithet:violacea genus:Euphonia" ; Times: 1
+	Query: "specificepithet:aureopectus genus:Pipreola" ; Times: 1
+	Query: "specificepithet:chrysopterus genus:Masius" ; Times: 1
+	Query: "specificepithet:minutus genus:Xenops" ; Times: 1
+	Query: "specificepithet:gouldii genus:Myobatrachus institutioncode:QM" ; Times: 3
+	Query: "specificepithet:cyanocephala genus:Thraupis" ; Times: 1
+	Query: "gazella" ; Times: 1
+	Query: "specificepithet:rufogriseus genus:Macropus mappable:1" ; Times: 3
+	Query: "specificepithet:rosea genus:Rhodinocichla" ; Times: 1
+	Query: "specificepithet:melanostictus genus:Duttaphrynus institutioncode:QM" ; Times: 3
+	Query: "Lissotriton vulgaris" ; Times: 2
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:QM" ; Times: 3
+	Query: "specificepithet:vitriolina genus:Tangara" ; Times: 1
+	Query: "genus:Nandopsis" ; Times: 1
+	Query: "Platyplectrum spenceri" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "specificepithet:cyanea genus:Diglossa" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris institutioncode:QM" ; Times: 6
+	Query: "specificepithet:valliceps genus:Incilius institutioncode:QM" ; Times: 3
+	Query: "Pachycephala soror bartoni" ; Times: 3
+	Query: "specificepithet:rupicola genus:Rupicola" ; Times: 1
+	Query: "great crested flycatcher" ; Times: 1
+	Query: "eunectes murinus" ; Times: 2
+	Query: "specificepithet:flavirostris genus:Arremon" ; Times: 1
+	Query: "Proteus anguinus" ; Times: 1
+	Query: "aepyornis" ; Times: 4
+	Query: "Hemiphyllodactylus yunnanensis" ; Times: 1
+	Query: "specificepithet:rufosuperciliata genus:Syndactyla" ; Times: 1
+	Query: "gerygone tenebrosa" ; Times: 1
+	Query: "specificepithet:stictopterus genus:Mecocerculus" ; Times: 1
+	Query: "vntype:specimen specificepithet:philippensis genus:Gallirallus" ; Times: 1
+	Query: "genus:Nannacara" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1" ; Times: 1
+	Query: "specificepithet:juxtaspera genus:Phrynoidis institutioncode:QM" ; Times: 3
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:QM" ; Times: 3
+	Query: "specificepithet:simplex genus:Pachycephala year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "western tragopan" ; Times: 1
+	Query: "specificepithet:lucidus genus:Cyanerpes" ; Times: 1
+	Query: "specificepithet:laevigata genus:Uperoleia institutioncode:QM" ; Times: 3
+	Query: "specificepithet:capensis genus:Lepus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:QM" ; Times: 3
+	Query: "specificepithet:carpintis family:Cichlidae" ; Times: 1
+	Query: "specificepithet:malacca genus:Lonchura" ; Times: 1
+	Query: "Orcaella brevirostris" ; Times: 5
+	Query: "Phyllomedusa hypochondrialis" ; Times: 3
+	Query: "specificepithet:rufescens genus:Hylophorbus institutioncode:QM" ; Times: 3
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "hemiphractidae" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Arthroleptis institutioncode:QM" ; Times: 4
+	Query: "genus:Theraps" ; Times: 1
+	Query: "specificepithet:peregusna genus:Vormela" ; Times: 1
+	Query: "tree kangaroo" ; Times: 2
+	Query: "specificepithet:coggeri genus:Mixophyes institutioncode:QM" ; Times: 3
+	Query: "Petrogale lateralis" ; Times: 1
+	Query: "green anaconda" ; Times: 2
+	Query: "specificepithet:nematopus family:Cichlidae" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "alectoris rufa" ; Times: 1
+	Query: "specificepithet:zebra family:Cichlidae" ; Times: 1
+	Query: "specificepithet:simplex genus:Pachycephala year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "morelia amethistina" ; Times: 8
+	Query: "genus:Probosciger" ; Times: 2
+	Query: "Macropus robustus" ; Times: 1
+	Query: "mjobergi" ; Times: 1
+	Query: "Charina bottae Idaho" ; Times: 1
+	Query: "xiphophorus helleri" ; Times: 2
+	Query: "specificepithet:salmini genus:Limnodynastes institutioncode:QM" ; Times: 3
+	Query: "specificepithet:aterrimus genus:Probosciger" ; Times: 2
+	Query: "specificepithet:militaris genus:Sturnella" ; Times: 1
+	Query: "specificepithet:signifera genus:Crinia institutioncode:QM" ; Times: 3
+	Query: "specificepithet:kubori genus:Nyctimystes institutioncode:QM" ; Times: 3
+	Query: "specificepithet:cryptotympanum genus:Cophixalus institutioncode:QM" ; Times: 3
+	Query: "free-tailed bat vntype:specimen" ; Times: 1
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 1
+	Query: "specificepithet:cinctus genus:parus class:aves" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "Rhinella marina" ; Times: 3
+	Query: "&#34;falco peregrinus&#34; vntype:specimen country:&#34;Australia&#34;" ; Times: 2
+	Query: "catalognumber:j82037 institutioncode:QM" ; Times: 1
+	Query: "specificepithet:hypochondrialis genus:Phyllomedusa institutioncode:QM" ; Times: 3
+	Query: "specificepithet:pileatus genus:Coryphospingus" ; Times: 1
+	Query: "specificepithet:coronata genus:Paroaria" ; Times: 1
+	Query: "blue whale" ; Times: 2
+	Query: "Leiopelma hochstetteri" ; Times: 1
+	Query: "specificepithet:krameri genus:Psittacula mappable:1" ; Times: 6
+	Query: "specificepithet:haemorrhous genus:Cacicus" ; Times: 1
+	Query: "turdus poliocephalus canescens" ; Times: 1
+	Query: "catalognumber:j82112 institutioncode:QM" ; Times: 1
+	Query: "&#34;Zonerodius heliosylus&#34;" ; Times: 6
+	Query: "Cape May Warbler" ; Times: 1
+	Query: "pacific hawksbill turtle" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 4
+	Query: "specificepithet:parzudakii genus:Tangara" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "sanderling" ; Times: 1
+	Query: "specificepithet:mascareniensis genus:Ptychadena institutioncode:QM" ; Times: 3
+	Query: "otis tarda" ; Times: 1
+	Query: "specificepithet:variabilis genus:Arthroleptis institutioncode:QM" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 78 (out of 1178 download events in this period)
+Total number of records downloaded: 2661
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 15
+	Country: Tunisia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 30
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Spain ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 3
+	Date: 2018-05-20 ; Times: 3
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-06 ; Times: 4
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-03 ; Times: 3
+	Date: 2018-05-01 ; Times: 3
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-09 ; Times: 5
+	Date: 2018-05-31 ; Times: 5
+	Date: 2018-05-30 ; Times: 5
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 2
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 6
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-13 ; Times: 3
+	Date: 2018-05-19 ; Times: 2
+	Date: 2018-05-18 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "ara ararauna" ; Times: 2
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "&#34;American robin&#34; vntype:specimen specificepithet:migratorius genus:Turdus" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "class:amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "class:amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Lacertidae" ; Times: 1
+	Query: "Macropus robustus" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "Psittirostra psittacea" ; Times: 1
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Dermophis mexicanus" ; Times: 1
+	Query: "Poephila acuticauda" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "free-tailed bat vntype:specimen" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "genus:crotalus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "&#34;falco peregrinus&#34; vntype:specimen country:&#34;Australia&#34;" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+	Query: "Proteus anguinus" ; Times: 1
+	Query: "Phylloscopus trochiloides OR occipitalis OR affinis OR humei OR reguloides OR pulcher OR chloronotus OR maculipennis vntype:specimen" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "&#34;Zonerodius heliosylus&#34;" ; Times: 1
+	Query: "Cape May Warbler" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "specificepithet:pulchellus genus:nettapus" ; Times: 1
+	Query: "Siren intermedia" ; Times: 2
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 1
+	Query: "Plethodon virginia" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
