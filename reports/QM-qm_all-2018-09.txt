@@ -1,0 +1,293 @@
+Report for Institution Code QM, Resource qm_all
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 201
+Number of records retrieved in searches: 2954
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Australia ; Times: 6
+	Country: Iran ; Times: 6
+	Country: Singapore ; Times: 3
+	Country: Papua New Guinea ; Times: 1
+	Country: China ; Times: 2
+	Country: Thailand ; Times: 2
+	Country: Germany ; Times: 9
+	Country: Denmark ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 90
+	Country: Sweden ; Times: 3
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 48
+	Country: India ; Times: 11
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 4
+	Date: 2018-09-23 ; Times: 5
+	Date: 2018-09-02 ; Times: 6
+	Date: 2018-09-03 ; Times: 15
+	Date: 2018-09-26 ; Times: 8
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-20 ; Times: 19
+	Date: 2018-09-21 ; Times: 18
+	Date: 2018-09-22 ; Times: 4
+	Date: 2018-09-05 ; Times: 20
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-30 ; Times: 7
+	Date: 2018-09-11 ; Times: 10
+	Date: 2018-09-10 ; Times: 8
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-12 ; Times: 7
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 7
+	Date: 2018-09-17 ; Times: 5
+	Date: 2018-09-16 ; Times: 9
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 7
+	Date: 2018-09-24 ; Times: 6
+	Date: 2018-09-25 ; Times: 6
+	Date: 2018-09-27 ; Times: 11
+	Date: 2018-09-06 ; Times: 5
+	Date: 2018-09-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Mammuthus primigenius" ; Times: 1
+	Query: "masked booby" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes year &gt;= 2000" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 1
+	Query: "Gambusia holbrooki" ; Times: 3
+	Query: "sterna dougallii vntype:specimen" ; Times: 1
+	Query: "hemiphyllodactylus thailand" ; Times: 1
+	Query: "Queensland gymnorhina" ; Times: 1
+	Query: "Homalopsidae" ; Times: 1
+	Query: "brahminy kite" ; Times: 1
+	Query: "agalychnis moreletii" ; Times: 2
+	Query: "Polymetme illustris" ; Times: 1
+	Query: "Falco severus" ; Times: 1
+	Query: "Aipysurus" ; Times: 2
+	Query: "cinclosoma clarum" ; Times: 2
+	Query: "coopers hawk" ; Times: 1
+	Query: "Motacilla flava lutea" ; Times: 1
+	Query: "Varanus scalaris" ; Times: 1
+	Query: "specificepithet:superciliaris genus:drymodes" ; Times: 8
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 2
+	Query: "sterna dougallii" ; Times: 4
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "specificepithet:macroura class:aves year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "ailuroedus melanotis" ; Times: 2
+	Query: "gerygone amalia" ; Times: 1
+	Query: "yellow-bellied flycatcher" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "ELEUTHERODACTYLUS PLANIROSTRIS" ; Times: 1
+	Query: "specificepithet:indica genus:Ratufa" ; Times: 2
+	Query: "nightingale" ; Times: 1
+	Query: "(Lygosoma OR Riopa OR Mochlus) institutioncode:QM" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "specificepithet:manadensis" ; Times: 1
+	Query: "Nativitatis Christmas" ; Times: 1
+	Query: "psittacula" ; Times: 1
+	Query: "northiella narethae" ; Times: 1
+	Query: "specificepithet:anais genus:mino" ; Times: 1
+	Query: "monk parakeet" ; Times: 1
+	Query: "monotremata" ; Times: 1
+	Query: "tropidophorus" ; Times: 3
+	Query: "balaenoptera" ; Times: 2
+	Query: "peponocephala electra" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 1
+	Query: "vampire" ; Times: 7
+	Query: "Pavo cristatus" ; Times: 15
+	Query: "eleutherodactylus nitidus" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 6
+	Query: "Nativitatis Christmas island" ; Times: 1
+	Query: "chaetorhynchus" ; Times: 1
+	Query: "snow bunting" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 3
+	Query: "Rhacodactylus ciliatus" ; Times: 1
+	Query: "order:passeriformes (asia minor)" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "Morelia amethistina" ; Times: 1
+	Query: "sylvia atricapilla" ; Times: 1
+	Query: "Hydrophis" ; Times: 1
+	Query: "genus:Triprion specificepithet:petasatus" ; Times: 1
+	Query: "genus:Sousa" ; Times: 2
+	Query: "Hemiphyllodactylus Thailand" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira mappable:1" ; Times: 1
+	Query: "macgregoria pulchra" ; Times: 1
+	Query: "amblyornis macgregoriae" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "procyon lotor massachusetts" ; Times: 1
+	Query: "genus:Pseudotropheus specificepithet:elongatus " ; Times: 1
+	Query: "common tern" ; Times: 1
+	Query: "hippocampus abdominalis" ; Times: 1
+	Query: "crocodilian" ; Times: 1
+	Query: "sula leucogaster" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 1
+	Query: "Taudactylus" ; Times: 2
+	Query: "amalosia lesueurii" ; Times: 1
+	Query: "rifleman" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "gbifdatasetid:a79c2b50-6c8a-11de-8226-b8a03c50a862" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "red-eared slider" ; Times: 1
+	Query: "catalognumber:J83132 institutioncode:QM" ; Times: 1
+	Query: "Tropidophorus" ; Times: 1
+	Query: "northern gannet" ; Times: 1
+	Query: "genus:Ornithorhynchus" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 2
+	Query: "Sula leucogaster" ; Times: 1
+	Query: "tree swallow" ; Times: 2
+	Query: "Hemichromis bimaculatus" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 2
+	Query: "Diaphus adenomus" ; Times: 1
+	Query: "yellow-nosed albatross" ; Times: 1
+	Query: "Opostomias micripnus" ; Times: 1
+	Query: "specificepithet:microphthalmus genus:Spalax" ; Times: 2
+	Query: "Artibeus cinereus" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "kogia breviceps" ; Times: 1
+	Query: "electra" ; Times: 1
+	Query: "Nyctimene" ; Times: 1
+	Query: "Panthera tigris" ; Times: 7
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 1
+	Query: "todiramphus chloris" ; Times: 1
+	Query: "Rhinella marina" ; Times: 17
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "specificepithet:melanotis genus:Ailuroedus" ; Times: 2
+	Query: "alectoris pubescens" ; Times: 1
+	Query: "specificepithet:flavocinctus genus:oriolus" ; Times: 1
+	Query: "ailuroedus stonii" ; Times: 5
+	Query: "mesoplodon densirostris" ; Times: 2
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "nyctalus noctula" ; Times: 1
+	Query: "isfossil:1 myodes gapperi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 846 download events in this period)
+Total number of records downloaded: 2099
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 36
+	Country: United States ; Times: 34
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-22 ; Times: 2
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-27 ; Times: 9
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-13 ; Times: 5
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-26 ; Times: 10
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-17 ; Times: 9
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-19 ; Times: 3
+	Date: 2018-09-18 ; Times: 14
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "specificepithet:cinereus genus:plethodon" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:putorius genus:Mustela mappable:1" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "lupus dingo" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "siren intermedia" ; Times: 2
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "kogia breviceps" ; Times: 1
+	Query: "oedura lesueurii" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "balaenoptera edeni" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "specificepithet:aries genus:Ovis mappable:1" ; Times: 1
+	Query: "specificepithet:mitchelli genus:Crotalus" ; Times: 1
+	Query: "peponocephala electra" ; Times: 1
+	Query: "Phrynosoma douglassi" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "balaenoptera borealis" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 2
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "eleutherodactylus nitidus" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "genus:vulpes continent:europe" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+	Query: "eschrichtius robustus" ; Times: 2
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "Morelia amethistina" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "giant salamander" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "specificepithet:tropicalis genus:Arctocephalus mappable:1" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus isfossil:1" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 4
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "Melopsittacus" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "carlia rubrigularis" ; Times: 1
+	Query: "pseudorca crassidens" ; Times: 1
+
+
+End of report.
