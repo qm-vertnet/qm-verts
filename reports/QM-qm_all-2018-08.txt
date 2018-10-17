@@ -1,0 +1,370 @@
+Report for Institution Code QM, Resource qm_all
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 285
+Number of records retrieved in searches: 3018
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 22
+	Country: United Kingdom ; Times: 8
+	Country: Russia ; Times: 2
+	Country: Australia ; Times: 9
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 23
+	Country: South Africa ; Times: 2
+	Country: United States ; Times: 184
+	Country: Netherlands ; Times: 3
+	Country: Germany ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: France ; Times: 9
+	Country: Argentina ; Times: 5
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-31 ; Times: 3
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-19 ; Times: 4
+	Date: 2018-08-16 ; Times: 5
+	Date: 2018-08-09 ; Times: 9
+	Date: 2018-08-14 ; Times: 5
+	Date: 2018-08-15 ; Times: 2
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-13 ; Times: 14
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-08 ; Times: 20
+	Date: 2018-08-02 ; Times: 20
+	Date: 2018-08-03 ; Times: 4
+	Date: 2018-08-17 ; Times: 3
+	Date: 2018-08-27 ; Times: 43
+	Date: 2018-08-26 ; Times: 10
+	Date: 2018-08-25 ; Times: 4
+	Date: 2018-08-24 ; Times: 6
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-22 ; Times: 16
+	Date: 2018-08-21 ; Times: 21
+	Date: 2018-08-20 ; Times: 10
+	Date: 2018-08-05 ; Times: 15
+	Date: 2018-08-04 ; Times: 8
+	Date: 2018-08-07 ; Times: 12
+	Date: 2018-08-06 ; Times: 11
+	Date: 2018-08-01 ; Times: 27
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "Melanotaenia goldiei" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 2
+	Query: "sooty tern" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyurus genus:anthus year &gt;= 1875 year &lt;= 1995" ; Times: 1
+	Query: "Pseudobalistes fuscus" ; Times: 1
+	Query: "Duttaphrynus melanostictus mappable:1" ; Times: 1
+	Query: "Genus Fringilla" ; Times: 1
+	Query: "Erithacus rubecula" ; Times: 7
+	Query: "felis catus" ; Times: 3
+	Query: "scolopax rosenbergii" ; Times: 1
+	Query: "vntype:specimen specificepithet:olivacea genus:stactolaema year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "caretta caretta" ; Times: 1
+	Query: "Pangasius nieuwenhuisii" ; Times: 1
+	Query: "Abalistes stellatus mappable:1" ; Times: 3
+	Query: "specificepithet:trichroa genus:erythrura year &gt;= 1985" ; Times: 1
+	Query: "Rhinecanthus verrucosus" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Sufflamen chrysopterus mappable:1" ; Times: 1
+	Query: "Anaxyrus speciosus" ; Times: 3
+	Query: "specificepithet:moluccensis genus:Upeneus" ; Times: 1
+	Query: "Chloroptera aves" ; Times: 3
+	Query: "Rhinecanthus verrucosus mappable:1" ; Times: 1
+	Query: "Welcome swallow" ; Times: 2
+	Query: "campbelli" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 3
+	Query: "Pangasius pangasius" ; Times: 2
+	Query: "Rhinella marina mappable:1" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 4
+	Query: "rhipidura rufifrons year &gt;= 1985 year &lt;= 2018" ; Times: 3
+	Query: "Phrynobatrachus calcaratus mappable:1" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 3
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "thamnophis sirtalis idaho" ; Times: 1
+	Query: "Goura victoria" ; Times: 11
+	Query: "rhinella marina" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 3
+	Query: "specificepithet:rufifrons genus:rhipidura year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "Canthidermis rotundatus mappable:1" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+	Query: "Naja mappable:1" ; Times: 3
+	Query: "northiella narethae" ; Times: 4
+	Query: "country:&#34;kyrgyzstan&#34;" ; Times: 1
+	Query: "Dugong dugon" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "Lepidodactylus manni" ; Times: 1
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "Melichthys vidua" ; Times: 1
+	Query: "emoia flavigularis" ; Times: 2
+	Query: "Balistoides conspicillum" ; Times: 1
+	Query: "Canthidermis rotundatus" ; Times: 1
+	Query: "Craugaster" ; Times: 1
+	Query: "vampire" ; Times: 2
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "genus:Proteus" ; Times: 1
+	Query: "argyrogaster" ; Times: 2
+	Query: "podiceps cristatus" ; Times: 2
+	Query: "Nativitatis Christmas island" ; Times: 1
+	Query: "specificepithet:swaini genus:Saltuarius" ; Times: 2
+	Query: "Lepidochelys olivacea" ; Times: 2
+	Query: "Marsupialia" ; Times: 1
+	Query: "picta victoria" ; Times: 1
+	Query: "Goura cristata" ; Times: 3
+	Query: "genus:psittacula" ; Times: 1
+	Query: "Poicephalus robustus" ; Times: 1
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "Lithobates palustris mappable:1" ; Times: 1
+	Query: "Abalistes stellatus" ; Times: 3
+	Query: "specificepithet:caudiannulatus genus:Phyllurus stateprovince:&#34;Queensland&#34;" ; Times: 1
+	Query: "Goura sclaterii" ; Times: 2
+	Query: "Felis catus" ; Times: 2
+	Query: "&#34;Channa micropeltes&#34;" ; Times: 1
+	Query: "genus:Saltuarius stateprovince:&#34;Queensland&#34;" ; Times: 1
+	Query: "Garrulax cachinnans" ; Times: 1
+	Query: "ingerophrynus" ; Times: 2
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "Canthidermis maculatus mappable:1" ; Times: 2
+	Query: "Locustella naevia" ; Times: 2
+	Query: "cancer" ; Times: 1
+	Query: "Sphenodon" ; Times: 4
+	Query: "specificepithet:caudiannulatus genus:Phyllurus" ; Times: 1
+	Query: "natator depressus" ; Times: 4
+	Query: "nativitatis christmas island" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "Hydrophis melanocephalus" ; Times: 1
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "Sufflamen fraenatus mappable:1" ; Times: 1
+	Query: "Pterois antennata" ; Times: 1
+	Query: "drymodes superciliaris" ; Times: 3
+	Query: "Manis crassicaudata" ; Times: 2
+	Query: "Emydocephalus" ; Times: 1
+	Query: "genus:Pseudotropheus specificepithet:elongatus " ; Times: 3
+	Query: "specificepithet:borealis genus:Numenius institutioncode:QM" ; Times: 1
+	Query: "specificepithet:ossifragus genus:corvus class:aves" ; Times: 1
+	Query: "Pseudobalistes flavimarginatus" ; Times: 1
+	Query: "specificepithet:tragula genus:Upeneus" ; Times: 1
+	Query: "genus:Phrynoidis specificepithet:aspera" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "eskimo curlew" ; Times: 11
+	Query: "Balistoides viridescens" ; Times: 1
+	Query: "Balistapus undulatus" ; Times: 1
+	Query: "saxatilis order:anura" ; Times: 1
+	Query: "Channa micropeltes" ; Times: 2
+	Query: "sora" ; Times: 1
+	Query: "fulmar" ; Times: 1
+	Query: "Tuatara" ; Times: 2
+	Query: "specificepithet:salebrosus genus:Saltuarius" ; Times: 3
+	Query: "gallirallus australis" ; Times: 3
+	Query: "absconditus" ; Times: 1
+	Query: "scolopax saturata" ; Times: 1
+	Query: "Sufflamen fraenatus" ; Times: 1
+	Query: "Sufflamen bursa" ; Times: 1
+	Query: "waigiuensis" ; Times: 1
+	Query: "Nativitatis" ; Times: 1
+	Query: "heteralocha" ; Times: 1
+	Query: "Rhinecanthus echarpe mappable:1" ; Times: 1
+	Query: "aegithalos" ; Times: 1
+	Query: "genus:Xiphophorus" ; Times: 3
+	Query: "stegonotus" ; Times: 1
+	Query: "Rhinecanthus echarpe" ; Times: 1
+	Query: "genus:Phyllurus stateprovince:&#34;Queensland&#34;" ; Times: 1
+	Query: "(rhipidura rufifrons) year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:pardalis genus:Cantherhines" ; Times: 1
+	Query: "EUDYPTULA MINOR" ; Times: 1
+	Query: "rhinoplax vigil" ; Times: 1
+	Query: "genus:Strophurus stateprovince:&#34;Queensland&#34; year &gt;= 1990" ; Times: 1
+	Query: "Canthidermis maculatus" ; Times: 2
+	Query: "morelia amethistina" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "Rhinecanthus aculeatus aculeatus mappable:1" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "Sun Parakeet" ; Times: 1
+	Query: "cinclosoma clarum" ; Times: 2
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "strophurus taenicauda" ; Times: 1
+	Query: "genus:Hirundapus class:Aves" ; Times: 2
+	Query: "Melanotaenia maccullochi" ; Times: 1
+	Query: "occidentalis queensland" ; Times: 1
+	Query: "micruroides" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "Macropus rufus" ; Times: 1
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 2
+	Query: "vntype:specimen specificepithet:brachyurus genus:anthus year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "Rhinella marina" ; Times: 7
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 4
+	Query: "specificepithet:cyanomos genus:Neopomacentrus" ; Times: 1
+	Query: "Balistoides conspicillum mappable:1" ; Times: 1
+	Query: "genus:Catharus specificepithet:minimus " ; Times: 1
+	Query: "Hyla euphorbiacea" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "Eudyptula albosignata" ; Times: 1
+	Query: "todiramphus tristrami" ; Times: 8
+	Query: "Incilius valliceps mappable:1" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Sufflamen chrysopterus" ; Times: 1
+	Query: "specificepithet:chinensis genus:sousa" ; Times: 2
+	Query: "henicophaps" ; Times: 2
+	Query: "Goura scheepmakeri" ; Times: 3
+	Query: "Pseudobalistes flavimarginatus mappable:1" ; Times: 1
+	Query: "Psittacella madaraszi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 99 (out of 1416 download events in this period)
+Total number of records downloaded: 4849
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 24
+	Country: Netherlands ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 36
+	Country: Unknown ; Times: 6
+	Country: United Kingdom ; Times: 8
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Spain ; Times: 12
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-19 ; Times: 14
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-09 ; Times: 13
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 5
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-10 ; Times: 5
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-02 ; Times: 2
+	Date: 2018-08-08 ; Times: 2
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-25 ; Times: 2
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-23 ; Times: 6
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-21 ; Times: 3
+	Date: 2018-08-20 ; Times: 3
+	Date: 2018-08-05 ; Times: 2
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 9
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 10
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+	Query: "sooty tern" ; Times: 1
+	Query: "specificepithet:phaeota genus:Smilisca" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 2
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "gambelia" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "boiga (Solomon islands)" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "family:Bufonidae continent:Africa AND (NOT bufo)" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "hELODERMA" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Dugong dugon" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "hyla eximia" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "genus:Proteus" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "podicipedidae" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "&#34;Channa micropeltes&#34;" ; Times: 1
+	Query: "ingerophrynus" ; Times: 1
+	Query: "Dendrelaphis (Solomon islands)" ; Times: 1
+	Query: "specificepithet:tarsius genus:Phyllomedusa" ; Times: 1
+	Query: "cancer" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Locustella naevia" ; Times: 1
+	Query: "Hydrophis melanocephalus" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "Ecuador" ; Times: 1
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Emydocephalus" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "eskimo curlew" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "crotalus" ; Times: 2
+	Query: "(rhipidura rufifrons) year &gt;= 1990" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "order:Caudata" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "fulmar" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "dipodomys agilis" ; Times: 1
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "Hyla euphorbiacea" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "genus:Anolis year&gt;1900 year&lt;2018" ; Times: 2
+
+
+End of report.
