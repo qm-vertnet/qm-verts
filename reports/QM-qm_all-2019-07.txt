@@ -1,0 +1,488 @@
+Report for Institution Code QM, Resource qm_all
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 474
+Number of records retrieved in searches: 4325
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 15
+	Country: Brazil ; Times: 9
+	Country: Madagascar ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 30
+	Country: Nepal ; Times: 1
+	Country: Luxembourg ; Times: 1
+	Country: France ; Times: 21
+	Country: Argentina ; Times: 7
+	Country: Venezuela ; Times: 5
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 7
+	Country: Singapore ; Times: 8
+	Country: China ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Philippines ; Times: 5
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 238
+	Country: Sweden ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 21
+	Country: India ; Times: 12
+	Country: United Kingdom ; Times: 75
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 60
+	Date: 2019-07-18 ; Times: 39
+	Date: 2019-07-19 ; Times: 14
+	Date: 2019-07-08 ; Times: 106
+	Date: 2019-07-12 ; Times: 7
+	Date: 2019-07-10 ; Times: 14
+	Date: 2019-07-11 ; Times: 15
+	Date: 2019-07-30 ; Times: 10
+	Date: 2019-07-17 ; Times: 23
+	Date: 2019-07-14 ; Times: 8
+	Date: 2019-07-15 ; Times: 11
+	Date: 2019-07-03 ; Times: 11
+	Date: 2019-07-23 ; Times: 12
+	Date: 2019-07-22 ; Times: 17
+	Date: 2019-07-21 ; Times: 5
+	Date: 2019-07-02 ; Times: 11
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-26 ; Times: 3
+	Date: 2019-07-25 ; Times: 10
+	Date: 2019-07-24 ; Times: 11
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-16 ; Times: 7
+	Date: 2019-07-29 ; Times: 7
+	Date: 2019-07-28 ; Times: 15
+	Date: 2019-07-05 ; Times: 26
+	Date: 2019-07-04 ; Times: 7
+	Date: 2019-07-07 ; Times: 3
+	Date: 2019-07-06 ; Times: 12
+	Date: 2019-07-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Schistura " ; Times: 2
+	Query: "specificepithet:penicillata genus:Petrogale" ; Times: 3
+	Query: "daption capense year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Antennarius specificepithet:commerson" ; Times: 1
+	Query: "Turdus poliocephalus canescens" ; Times: 1
+	Query: "genus:Parenchelyurus specificepithet:hepburni" ; Times: 1
+	Query: "aves eremita" ; Times: 3
+	Query: "Megadyptes" ; Times: 1
+	Query: "genus:Siren specificepithet:intermedia" ; Times: 1
+	Query: "pterodroma mollis" ; Times: 6
+	Query: "specificepithet:superciliaris family:Bufonidae" ; Times: 1
+	Query: "Scenopoeetes dentirostris" ; Times: 2
+	Query: "Orraya occultus" ; Times: 2
+	Query: "genus:Simoselaps family:elapidae" ; Times: 1
+	Query: "pachyptila alter" ; Times: 3
+	Query: "fregetta year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "Paramythia montium" ; Times: 1
+	Query: "Ptiloris paradiseus" ; Times: 3
+	Query: "genus:Pyrrholaemus specificepithet:brunneus" ; Times: 1
+	Query: "specificepithet:calligastra genus:dendrelaphis country:&#34;australia&#34;" ; Times: 1
+	Query: "Hydrophis curtus" ; Times: 4
+	Query: "Pycnoptilus floccosus" ; Times: 1
+	Query: "genus:Calumma specificepithet:gallus" ; Times: 1
+	Query: "genus:Phasianus" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "genus:Anthus specificepithet:trivialis" ; Times: 1
+	Query: "Dasyornis brachypterus" ; Times: 2
+	Query: "Motacilla flava" ; Times: 2
+	Query: "genus:Uaru specificepithet:amphiacanthoides" ; Times: 1
+	Query: "genus:Boleophthalmus specificepithet:boddarti" ; Times: 1
+	Query: "genus:Tympanocryptis specificepithet:lineata" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "genus:Sminthopsis specificepithet:crassicaudata" ; Times: 1
+	Query: "genus:Menetia specificepithet:greyii" ; Times: 1
+	Query: "daption capense year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "pachyptila salvini" ; Times: 4
+	Query: "hydrophis curtus" ; Times: 1
+	Query: "ameles" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "Agapornis lilianae" ; Times: 6
+	Query: "genus:Vini specificepithet:australis" ; Times: 1
+	Query: "genus:Trichoglossus" ; Times: 1
+	Query: "genus:Galeus specificepithet:gracilis" ; Times: 1
+	Query: "Bos taurus mappable:1" ; Times: 1
+	Query: "eremita" ; Times: 3
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 1
+	Query: "genus:Benthodesmus specificepithet:elongatus" ; Times: 1
+	Query: "Paradisaea apoda" ; Times: 2
+	Query: "Psettina IIJIMAE" ; Times: 1
+	Query: "Poephila cincta" ; Times: 1
+	Query: "Haliaeetus leucogaster" ; Times: 1
+	Query: "genus:Redunca" ; Times: 1
+	Query: "genus:Bradypodion specificepithet:pumilum" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 5
+	Query: "genus:Exallias specificepithet:brevis" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "genus:Papio specificepithet:ursinus" ; Times: 1
+	Query: "genus:Tetractenos specificepithet:hamiltoni" ; Times: 1
+	Query: "pachyptila salvini year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "lalage pallescens" ; Times: 1
+	Query: "genus:Saiphos" ; Times: 1
+	Query: "Mohoua ochrocephala" ; Times: 1
+	Query: "brown booby" ; Times: 4
+	Query: "Lophonectes gallus" ; Times: 1
+	Query: "Phyllurus kabikabi" ; Times: 3
+	Query: "puffinus assimilis" ; Times: 1
+	Query: "Pseudothecadactylus lindneri" ; Times: 1
+	Query: "fordonia leucobalia" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 10
+	Query: "genus:Lacerta specificepithet:viridis" ; Times: 1
+	Query: "Tree swallow" ; Times: 2
+	Query: "genus:Gallus" ; Times: 1
+	Query: "genus:Upupa country:&#34;India&#34;" ; Times: 5
+	Query: "Sterna albifrons mappable:1" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "genus:Torquigener specificepithet:whitleyi" ; Times: 1
+	Query: "saxicola rubicola" ; Times: 3
+	Query: "specificepithet:psittacea genus:Psittirostra" ; Times: 1
+	Query: "genus:Lepidochelys " ; Times: 1
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 1
+	Query: "genus:Pardalotus specificepithet:punctatus" ; Times: 1
+	Query: "genus:Ostracion specificepithet:cubicus" ; Times: 1
+	Query: "nycteris thebaica" ; Times: 1
+	Query: "pelagodroma marina year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "indigo bunting" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 10
+	Query: "Delma torquata" ; Times: 1
+	Query: "Oxyeleotris marmorata" ; Times: 1
+	Query: "family:Homalopsidae" ; Times: 7
+	Query: "genus:Naultinus" ; Times: 1
+	Query: "genus:Antechinus specificepithet:stuartii" ; Times: 1
+	Query: "Oceanites oceanicus" ; Times: 3
+	Query: "genus:Bettongia specificepithet:penicillata" ; Times: 1
+	Query: "genus:Crocodylus mappable:1" ; Times: 3
+	Query: "genus:Cercartetus specificepithet:concinnus" ; Times: 1
+	Query: "Ameles" ; Times: 1
+	Query: "Cerberus schneiderii" ; Times: 1
+	Query: "genus:Haliaeetus" ; Times: 1
+	Query: "monarcha leucotis" ; Times: 1
+	Query: "genus:Poliocephalus family:Podicipedidae class:Aves institutioncode:QM" ; Times: 1
+	Query: "genus:Osteopilus" ; Times: 1
+	Query: "genus:Ostichthys" ; Times: 1
+	Query: "Oceanites oceanicus year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "genus:Sturnus" ; Times: 1
+	Query: "Correlophus ciliatus" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 2
+	Query: "rhynchobatus australiae" ; Times: 1
+	Query: "Nephrurus wheeleri" ; Times: 2
+	Query: "Elseya dentata" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:planirostris" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 1
+	Query: "genus:Falco specificepithet:subbuteo" ; Times: 1
+	Query: "Arremon flavirostris mappable:1" ; Times: 1
+	Query: "pelagodroma marina year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "genus:Awaous specificepithet:ocellaris" ; Times: 1
+	Query: "Hippocampus breviceps" ; Times: 1
+	Query: "genus:Triacanthus specificepithet:biaculeatus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Oceanites oceanicus exasperatus" ; Times: 2
+	Query: "Lipinia noctua" ; Times: 2
+	Query: "procellaria westlandica" ; Times: 2
+	Query: "genus:Phyllostomus specificepithet:hastatus" ; Times: 1
+	Query: "genus:Limnodromus " ; Times: 1
+	Query: "Peltohyas australis" ; Times: 3
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 1
+	Query: "specificepithet:viridis genus:crotalus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Cracticus cassicus" ; Times: 2
+	Query: "genus:Pseudemoia specificepithet:spenceri" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "A947" ; Times: 1
+	Query: "genus:Pseudotropheus specificepithet:elongatus " ; Times: 1
+	Query: "mauremys reevesii" ; Times: 1
+	Query: "pachyptila vittata" ; Times: 5
+	Query: "Neophema chrysostoma" ; Times: 4
+	Query: "Ardeotis australis" ; Times: 2
+	Query: "0453" ; Times: 1
+	Query: "pachyptila desolata year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Ebosia bleekeri" ; Times: 1
+	Query: "genus:Mniotilta" ; Times: 1
+	Query: "spheniscus" ; Times: 1
+	Query: "genus:Hippichthys specificepithet:heptagonus" ; Times: 1
+	Query: "genus:Chiromantis specificepithet:rufescens" ; Times: 1
+	Query: "Thylacinus vntype:specimen" ; Times: 3
+	Query: "Carphodactylus laevis" ; Times: 1
+	Query: "genus:Tropheus" ; Times: 1
+	Query: "family:psittacidae mappable:1 year&gt;=2000 year&lt;=2001" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 9
+	Query: "genus:Chelonodon" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "genus:eurostopodus class:aves year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Microphis" ; Times: 5
+	Query: "eudyptes pachyrhynchus" ; Times: 2
+	Query: "Barnardius barnardi mappable:1" ; Times: 1
+	Query: "genus:Luscinia specificepithet:luscinia" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "specificepithet:viridis genus:crotalus stateprovince:&#34;idaho&#34;" ; Times: 1
+	Query: "genus:Phyllostomus specificepithet:discolor" ; Times: 1
+	Query: "Alisterus scapularis mappable:1" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "dingo genus:Canis AND (NOT ANWC)" ; Times: 2
+	Query: "Saltuarius cornutus" ; Times: 2
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "genus:Phrynoidis specificepithet:aspera" ; Times: 1
+	Query: "Northern Parula" ; Times: 4
+	Query: "cervicalis" ; Times: 3
+	Query: "dingo specificepithet:lupus genus:Canis AND (NOT ANWC)" ; Times: 1
+	Query: "0671" ; Times: 1
+	Query: "sula leucogaster" ; Times: 7
+	Query: "pachyptila turtur year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Bangana" ; Times: 1
+	Query: "genus:Caretta specificepithet:caretta" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "genus:Asymbolus specificepithet:pallidus" ; Times: 1
+	Query: "genus:Bothrochilus specificepithet:boa" ; Times: 1
+	Query: "coracina tenuirostris" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Psettina" ; Times: 2
+	Query: "Pelagodroma marina" ; Times: 1
+	Query: "killer whale" ; Times: 1
+	Query: "genus:Crocodylus  specificepithet:porosus" ; Times: 1
+	Query: "procellaria" ; Times: 2
+	Query: "genus:Clangula specificepithet:hyemalis" ; Times: 1
+	Query: "Paradelma orientalis" ; Times: 3
+	Query: "genus:Ingerophrynus specificepithet:biporcatus" ; Times: 1
+	Query: "Tropidophorus" ; Times: 1
+	Query: "genus:Stagonopleura specificepithet:bella" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "genus:Porzana specificepithet:fluminea" ; Times: 1
+	Query: "genus:Bagarius specificepithet:yarrelli" ; Times: 1
+	Query: "otis tarda tarda" ; Times: 1
+	Query: "genus:Pandion" ; Times: 1
+	Query: "pachyptila desolata" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "specificepithet:australis genus:Ardeotis" ; Times: 3
+	Query: "genus:Hemitilapia specificepithet:oxyrhynchus" ; Times: 1
+	Query: "genus:Antrozous" ; Times: 1
+	Query: "Cyanoramphus" ; Times: 2
+	Query: "hydrophis caerulescens" ; Times: 3
+	Query: "genus:Incilius specificepithet:valliceps" ; Times: 1
+	Query: "specificepithet:Forbesi class:Aves" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "oryzias latipes" ; Times: 1
+	Query: "Felis lynx" ; Times: 1
+	Query: "Charmosyna pulchella" ; Times: 1
+	Query: "Saltuarius kateae" ; Times: 2
+	Query: "Daphoenositta miranda miranda" ; Times: 1
+	Query: "genus:Eptesicus specificepithet:furinalis" ; Times: 1
+	Query: "Macgregoria pulchra" ; Times: 1
+	Query: "specificepithet:ichthyaetus class:Aves" ; Times: 1
+	Query: "vestitus" ; Times: 1
+	Query: "Ducula rubricera" ; Times: 1
+	Query: "genus:Toxorhamphus specificepithet:novaeguineae" ; Times: 1
+	Query: "genus:Desmodus" ; Times: 1
+	Query: "Phyllurus amnicola" ; Times: 2
+	Query: "Asterophrys" ; Times: 1
+	Query: "genus:eurostopodus class:aves" ; Times: 1
+	Query: "Coccyzus americanus americanus mappable:1" ; Times: 1
+	Query: "Pygopus nigriceps" ; Times: 1
+	Query: "genus:Pagodroma specificepithet:nivea" ; Times: 1
+	Query: "specificepithet:canadensis genus:perisoreus country:&#34;Canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Trichosurus specificepithet:vulpecula" ; Times: 1
+	Query: "Lerista stylis" ; Times: 1
+	Query: "genus:Egretta specificepithet:thula" ; Times: 1
+	Query: "genus:Figaro specificepithet:boardmani" ; Times: 1
+	Query: "pterodroma cervicalis" ; Times: 2
+	Query: "snake country:&#34;singapore&#34;" ; Times: 1
+	Query: "Oreopsittacus arfaki" ; Times: 2
+	Query: "genus:Aeoliscus specificepithet:strigatus" ; Times: 1
+	Query: "Sipodotus wallacii" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 8
+	Query: "genus:Callogobius" ; Times: 1
+	Query: "hydrophis brooki" ; Times: 2
+	Query: "Polytelis anthopeplus" ; Times: 1
+	Query: "genus:Pluvialis specificepithet:dominica" ; Times: 1
+	Query: "Psittacella brehmii" ; Times: 2
+	Query: "genus:Pogonomys" ; Times: 1
+	Query: "Oreoscopus gutturalis" ; Times: 1
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "Eudyptula" ; Times: 1
+	Query: "Emblema pictum" ; Times: 2
+	Query: "Saltuarius wyberba" ; Times: 2
+	Query: "Sora" ; Times: 1
+	Query: "elaphe dione" ; Times: 1
+	Query: "fregetta year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Alisterus chloropterus" ; Times: 1
+	Query: "Saltuarius salebrosus" ; Times: 2
+	Query: "genus:Gastrophryne" ; Times: 1
+	Query: "genus:Myzomela specificepithet:erythrocephala" ; Times: 1
+	Query: "genus:Falco specificepithet:cenchroides" ; Times: 1
+	Query: "Pangio kuhlii" ; Times: 1
+	Query: "genus:Dasyurus specificepithet:hallucatus" ; Times: 1
+	Query: "Prionodura newtoniana" ; Times: 4
+	Query: "specificepithet:canadensis genus:perisoreus country:&#34;canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Phyllurus" ; Times: 1
+	Query: "sora" ; Times: 1
+	Query: "genus:Petrogale specificepithet:penicillata" ; Times: 1
+	Query: "specificepithet:buergersi class:Aves" ; Times: 5
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "Uvidicolus sphyrurus" ; Times: 1
+	Query: "Smooth green snake" ; Times: 3
+	Query: "Fregetta grallaria grallaria" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "Aprosmictus erythropterus mappable:1" ; Times: 1
+	Query: "pterois russelli" ; Times: 1
+	Query: "crassirostris year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 2
+	Query: "genus:Morus " ; Times: 1
+	Query: "CM 5906" ; Times: 2
+	Query: "megaptera" ; Times: 1
+	Query: "Oreostruthus fuliginosus" ; Times: 5
+	Query: "Polytelis swainsonii" ; Times: 1
+	Query: "genus:Choerophryne" ; Times: 1
+	Query: "otis tarda" ; Times: 4
+	Query: "Great Plains skink" ; Times: 1
+	Query: "Thylacine" ; Times: 1
+	Query: "Trichodere cockerelli" ; Times: 1
+	Query: "todiramphus tristrami" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "genus:Gavia specificepithet:immer" ; Times: 1
+	Query: "Gerridae" ; Times: 1
+	Query: "Pentacerotidae" ; Times: 1
+	Query: "Cacatua galerita mappable:1" ; Times: 1
+	Query: "hydrophis torquatus" ; Times: 5
+	Query: "pelagodroma year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "russatus" ; Times: 1
+	Query: "northern parula" ; Times: 1
+	Query: "genus:Microeca specificepithet:papuana" ; Times: 1
+	Query: "erithizon" ; Times: 1
+	Query: "Macroramphosidae" ; Times: 1
+	Query: "Micropsitta bruijnii" ; Times: 1
+	Query: "tanager" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 985 download events in this period)
+Total number of records downloaded: 6158
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Unknown ; Times: 21
+	Country: Mexico ; Times: 9
+	Country: India ; Times: 2
+	Country: United States ; Times: 31
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 4
+	Date: 2019-07-19 ; Times: 3
+	Date: 2019-07-12 ; Times: 4
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-30 ; Times: 4
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-15 ; Times: 4
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-09 ; Times: 20
+	Date: 2019-07-08 ; Times: 3
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-20 ; Times: 5
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 4
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:clarki genus:Sceloporus" ; Times: 1
+	Query: "dingo genus:Canis AND (NOT ANWC)" ; Times: 1
+	Query: "Phyllurus amnicola" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia" ; Times: 1
+	Query: "specificepithet:psittacea genus:Psittirostra" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri NOT asiatica) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "Lerista stylis" ; Times: 1
+	Query: "Orraya occultus" ; Times: 1
+	Query: "Delma torquata" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "family:Homalopsidae" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 5
+	Query: "Phyllurus platurus" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Elseya dentata" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "Saltuarius cornutus" ; Times: 1
+	Query: "Saltuarius wyberba" ; Times: 1
+	Query: "Saltuarius kateae" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Saltuarius salebrosus" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Plestiodon" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "spizella" ; Times: 1
+	Query: "Correlophus ciliatus" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+	Query: "specificepithet:solare genus:phrynosoma" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "Carphodactylus laevis" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Uvidicolus sphyrurus" ; Times: 1
+	Query: "Smooth green snake" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "Platyrrhinus helleri" ; Times: 5
+	Query: "specificepithet:lateralis genus:Scincella" ; Times: 1
+	Query: "Scincidae" ; Times: 1
+	Query: "Paradelma orientalis" ; Times: 1
+	Query: "Poephila cincta" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "Diplodactylus vittatus" ; Times: 1
+	Query: "Nephrurus wheeleri" ; Times: 1
+	Query: "upupa epops" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "Phyllurus kabikabi" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia" ; Times: 3
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 1
+	Query: "Pseudothecadactylus lindneri" ; Times: 1
+	Query: "Pygopus nigriceps" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "class:reptilia country:&#34;Singapore&#34;" ; Times: 1
+
+
+End of report.
