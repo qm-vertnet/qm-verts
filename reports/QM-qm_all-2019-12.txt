@@ -1,0 +1,364 @@
+Report for Institution Code QM, Resource qm_all
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 535
+Number of records retrieved in searches: 6928
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 284
+	Country: Ireland ; Times: 2
+	Country: Australia ; Times: 13
+	Country: Singapore ; Times: 11
+	Country: Germany ; Times: 24
+	Country: Belgium ; Times: 9
+	Country: Thailand ; Times: 1
+	Country: Netherlands ; Times: 7
+	Country: Denmark ; Times: 2
+	Country: Philippines ; Times: 2
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 131
+	Country: Sweden ; Times: 1
+	Country: Brazil ; Times: 18
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 22
+	Date: 2019-12-24 ; Times: 25
+	Date: 2019-12-27 ; Times: 19
+	Date: 2019-12-26 ; Times: 77
+	Date: 2019-12-21 ; Times: 86
+	Date: 2019-12-20 ; Times: 53
+	Date: 2019-12-23 ; Times: 4
+	Date: 2019-12-22 ; Times: 27
+	Date: 2019-12-29 ; Times: 7
+	Date: 2019-12-28 ; Times: 3
+	Date: 2019-12-18 ; Times: 2
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-10 ; Times: 8
+	Date: 2019-12-11 ; Times: 5
+	Date: 2019-12-12 ; Times: 12
+	Date: 2019-12-13 ; Times: 7
+	Date: 2019-12-15 ; Times: 4
+	Date: 2019-12-16 ; Times: 10
+	Date: 2019-12-17 ; Times: 7
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-31 ; Times: 6
+	Date: 2019-12-09 ; Times: 6
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-07 ; Times: 6
+	Date: 2019-12-06 ; Times: 41
+	Date: 2019-12-05 ; Times: 19
+	Date: 2019-12-04 ; Times: 14
+	Date: 2019-12-03 ; Times: 23
+	Date: 2019-12-02 ; Times: 33
+	Date: 2019-12-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Nealotus tripes mappable:1" ; Times: 7
+	Query: "vermicella annulata institutioncode:QM" ; Times: 1
+	Query: "specificepithet:aspera genus:Phrynoidis" ; Times: 2
+	Query: "Benthodesmus tenuis mappable:1" ; Times: 2
+	Query: "suta punctata institutioncode:QM" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "Macgregoria" ; Times: 2
+	Query: "Pseudorca crassidens mappable:1" ; Times: 2
+	Query: "mixophyes coggeri" ; Times: 2
+	Query: "Lagenodelphis hosei mappable:1" ; Times: 2
+	Query: "wood duck" ; Times: 1
+	Query: "boydii" ; Times: 2
+	Query: "Lepidosiren" ; Times: 1
+	Query: "specificepithet:horsfieldii genus:testudo" ; Times: 7
+	Query: "Tylosurus acus acus mappable:1" ; Times: 13
+	Query: "cane toad" ; Times: 1
+	Query: "hoplocephalus stephensii institutioncode:QM" ; Times: 1
+	Query: "hemiaspis signata institutioncode:QM" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 2
+	Query: "Planigale ingrami" ; Times: 2
+	Query: "Psephotus pulcherrimus" ; Times: 1
+	Query: "Stenella longirostris mappable:1" ; Times: 2
+	Query: "tufted duck" ; Times: 2
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 5
+	Query: "Nomeus gronovii mappable:1" ; Times: 4
+	Query: "morelia viridis institutioncode:QM" ; Times: 1
+	Query: "hoplocephalus bitorquatus institutioncode:QM" ; Times: 1
+	Query: "specificepithet:luciani genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 2
+	Query: "specificepithet:biporcatus genus:Ingerophrynus" ; Times: 2
+	Query: "denisonia maculata institutioncode:QM" ; Times: 1
+	Query: "pterodroma macroptera" ; Times: 3
+	Query: "Balaenoptera edeni  mappable:1" ; Times: 3
+	Query: "Ruvettus pretiosus mappable:1" ; Times: 7
+	Query: "myron institutioncode:QM" ; Times: 1
+	Query: "Sphyrna mokarran mappable:1" ; Times: 2
+	Query: "hemiaspis institutioncode:QM" ; Times: 1
+	Query: "Ratufa indica" ; Times: 1
+	Query: "Rhinella marina mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 10
+	Query: "Naultinus" ; Times: 1
+	Query: "Pterois volitans mappable:1" ; Times: 5
+	Query: "family:Helodermatidae isfossil:1" ; Times: 2
+	Query: "genus:Amphilophus" ; Times: 1
+	Query: "specificepithet:quercicus genus:Anaxyrus" ; Times: 2
+	Query: "bombina variegata" ; Times: 1
+	Query: "pseudonaja guttata institutioncode:QM" ; Times: 1
+	Query: "oxyuranus scutellatus institutioncode:QM" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 2
+	Query: "Varanus spenceri" ; Times: 1
+	Query: "Howella brodiei  mappable:1" ; Times: 4
+	Query: "Malacocephalus laevis mappable:1" ; Times: 4
+	Query: "liasis institutioncode:QM" ; Times: 2
+	Query: "fordonia institutioncode:QM" ; Times: 1
+	Query: "Morelia amethistina" ; Times: 2
+	Query: "brachyurophis institutioncode:QM" ; Times: 1
+	Query: "dendrelaphis punctulata institutioncode:QM" ; Times: 1
+	Query: "Peponocephala electra mappable:1" ; Times: 2
+	Query: "Seriola rivoliana mappable:1" ; Times: 3
+	Query: "specificepithet:helianthea genus:Coeligena mappable:1" ; Times: 1
+	Query: "Boiga irregularis mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "brachyurophis fasciolatus institutioncode:QM" ; Times: 1
+	Query: "furina ornata institutioncode:QM" ; Times: 1
+	Query: "Caranx lugubris mappable:1" ; Times: 3
+	Query: "specificepithet:valliceps genus:Incilius" ; Times: 2
+	Query: "Ashbyia lovensis" ; Times: 11
+	Query: "Coryphaena hippurus mappable:1" ; Times: 2
+	Query: "Thorny devil" ; Times: 2
+	Query: "nicobar pigeon" ; Times: 1
+	Query: "White Ibis" ; Times: 2
+	Query: "Uperoleia littlejohni" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 2
+	Query: "Scotobleps gabonicus mappable:1" ; Times: 1
+	Query: "genus:Ichthyophis" ; Times: 1
+	Query: "Tridentiger trigonocephalus" ; Times: 1
+	Query: "platurus" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 18
+	Query: "vntype:specimen specificepithet:corythaix genus:Tauraco country:&#34;South Africa&#34;" ; Times: 1
+	Query: "greylag goose" ; Times: 1
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "boreal owl" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "morelia bredli institutioncode:QM" ; Times: 1
+	Query: "Varanus acanthurus" ; Times: 1
+	Query: "Chelonia mydas  mappable:1" ; Times: 2
+	Query: "specificepithet:paradisaea genus:Sterna continent:Europe" ; Times: 1
+	Query: "red knot" ; Times: 1
+	Query: "dendrelaphis calligastra institutioncode:QM" ; Times: 1
+	Query: "drysdalia institutioncode:QM" ; Times: 1
+	Query: "Thunnus tonggol" ; Times: 1
+	Query: "amethistina" ; Times: 13
+	Query: "brachyurophis australis institutioncode:QM" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "pagodroma" ; Times: 2
+	Query: "Varanus storri" ; Times: 1
+	Query: "furina diadema institutioncode:QM" ; Times: 1
+	Query: "Pelamis platurus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 1
+	Query: "Remora remora mappable:1" ; Times: 2
+	Query: "Litoria aurea mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 3
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "Tachybaptus novaehollandiae" ; Times: 6
+	Query: "Seriola dumerili mappable:1" ; Times: 3
+	Query: "denisonia devisi institutioncode:QM" ; Times: 1
+	Query: "genus:hirundapus class:aves year &gt;= 1980" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 11
+	Query: "Thunnus albacares mappable:1" ; Times: 2
+	Query: "cerberus institutioncode:QM" ; Times: 1
+	Query: "peregrine falcon" ; Times: 2
+	Query: "Lithobates sylvaticus" ; Times: 2
+	Query: "denisonia institutioncode:QM" ; Times: 1
+	Query: "vermicella multifasciata institutioncode:QM" ; Times: 1
+	Query: "Morelia variegata" ; Times: 1
+	Query: "Basileuterus bivittatus" ; Times: 1
+	Query: "hoplocephalus bungaroides institutioncode:QM" ; Times: 1
+	Query: "Apus pacificus" ; Times: 2
+	Query: "Istiophorus platypterus mappable:1" ; Times: 2
+	Query: "oxyuranus institutioncode:QM" ; Times: 1
+	Query: "Kaupichthys hyoproroides mappable:1" ; Times: 11
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "Feresa attenuata mappable:1" ; Times: 2
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 7
+	Query: "Mola mola mappable:1" ; Times: 2
+	Query: "morelia institutioncode:QM" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 2
+	Query: "Varanus tristis" ; Times: 3
+	Query: "elapognathus institutioncode:QM" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 13
+	Query: "Anisotremus surinamensis mappable:1" ; Times: 12
+	Query: "Microphis brachyurus brachyurus mappable:1" ; Times: 5
+	Query: "Remora osteochir mappable:1" ; Times: 2
+	Query: "specificepithet:melanostictus genus:Duttaphrynus" ; Times: 2
+	Query: "vermicella institutioncode:QM" ; Times: 1
+	Query: "Lobotes surinamensis mappable:1" ; Times: 2
+	Query: "Apteryx mantelli" ; Times: 2
+	Query: "Makaira nigricans  mappable:1" ; Times: 2
+	Query: "Diodon holocanthus" ; Times: 3
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "remora brachyptera" ; Times: 1
+	Query: "echiopsis institutioncode:QM" ; Times: 1
+	Query: "hemiaspis damelii institutioncode:QM" ; Times: 1
+	Query: "Balaenoptera musculus mappable:1" ; Times: 1
+	Query: "Eretmochelys imbricata  mappable:1" ; Times: 2
+	Query: "Diaphus adenomus mappable:1" ; Times: 6
+	Query: "morelia bredli" ; Times: 1
+	Query: "pelobates fuscus" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 7
+	Query: "Antennarius striatus mappable:1" ; Times: 12
+	Query: "Oryzias latipes" ; Times: 2
+	Query: "american golden plover" ; Times: 1
+	Query: "camaroptera beirensis" ; Times: 3
+	Query: "terpsiphone incei" ; Times: 1
+	Query: "Amalocichla sclateriana" ; Times: 3
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 2
+	Query: "cacophis harriettae institutioncode:QM" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 5
+	Query: "Litoria ewingii mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "Lepidochelys olivacea mappable:1" ; Times: 2
+	Query: "Megadyptes antipodes" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "specificepithet:speciosus genus:Anaxyrus" ; Times: 2
+	Query: "Caretta caretta  mappable:1" ; Times: 2
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 2
+	Query: "stegonotus institutioncode:QM" ; Times: 1
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 10
+	Query: "Lepidodactylus lugubris mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 3
+	Query: "Aluterus monoceros mappable:1" ; Times: 6
+	Query: "pseudonaja nuchalis institutioncode:QM" ; Times: 1
+	Query: "Fistularia commersonii" ; Times: 2
+	Query: "specificepithet:americanus genus:Anaxyrus" ; Times: 2
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 3
+	Query: "genus:Leiopelma" ; Times: 1
+	Query: "Varanus varius" ; Times: 1
+	Query: "Pallid harrier" ; Times: 1
+	Query: "morelia amethistina" ; Times: 2
+	Query: "acanthophis pyrrhus institutioncode:QM" ; Times: 1
+	Query: "hirundapus" ; Times: 1
+	Query: "austrelaps institutioncode:QM" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 2
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "genus:catharus stateprovince:&#34;colorado&#34;" ; Times: 3
+	Query: "Diodon hystrix mappable:1" ; Times: 11
+	Query: "spinipes" ; Times: 3
+	Query: "specificepithet:cupreoventris genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 4
+	Query: "Trachinocephalus myops mappable:1" ; Times: 2
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "Thunnus obesus mappable:1" ; Times: 2
+	Query: "Varanus indicus" ; Times: 1
+	Query: "Lampropholis delicata mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:hypochondrialis" ; Times: 1
+	Query: "dendrelaphis institutioncode:QM" ; Times: 1
+	Query: "Thunnus maccoyii" ; Times: 3
+	Query: "Lipinia noctua mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "Cinclus ardesiacus" ; Times: 1
+	Query: "pseudonaja institutioncode:QM" ; Times: 1
+	Query: "institutioncode:QM" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 2
+	Query: "specificepithet:marina genus:Rhinella" ; Times: 2
+	Query: "specificepithet:axis" ; Times: 1
+	Query: "hen harrier" ; Times: 1
+	Query: "Oreostruthus fuliginosus" ; Times: 2
+	Query: "suta suta institutioncode:QM" ; Times: 1
+	Query: "Echeneis naucrates mappable:1" ; Times: 2
+	Query: "dilophus" ; Times: 3
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 3
+	Query: "Xiphias gladius mappable:1" ; Times: 2
+	Query: "Gallicolumba" ; Times: 2
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 2
+	Query: "Alectis ciliaris mappable:1" ; Times: 3
+	Query: "oxyuranus microlepidotus institutioncode:QM" ; Times: 1
+	Query: "Varanus doreanus" ; Times: 1
+	Query: "Acanthocybium solandri mappable:1" ; Times: 2
+	Query: "Parexocoetus brachypterus mappable:1" ; Times: 2
+	Query: "Auxis thazard thazard mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 596 download events in this period)
+Total number of records downloaded: 1553
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 18
+	Country: Paraguay ; Times: 1
+	Country: Belgium ; Times: 12
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 12
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-15 ; Times: 2
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-01 ; Times: 3
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 6
+	Date: 2019-12-05 ; Times: 6
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-02 ; Times: 2
+	Date: 2019-12-16 ; Times: 3
+	Date: 2019-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "genus:micrurus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "Varanus varius" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla country:&#34;México&#34;" ; Times: 1
+	Query: "Pallid harrier" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Varanus tristis" ; Times: 1
+	Query: "hen harrier" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "cane toad" ; Times: 2
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "spinipes" ; Times: 3
+	Query: "genus:Condylura" ; Times: 2
+	Query: "Varanus acanthurus" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "Varanus gouldii" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Varanus doreanus" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Varanus storri" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Varanus spenceri" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+
+
+End of report.
