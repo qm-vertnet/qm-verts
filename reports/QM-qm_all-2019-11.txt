@@ -1,0 +1,331 @@
+Report for Institution Code QM, Resource qm_all
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 293
+Number of records retrieved in searches: 3316
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 2
+	Country: Benin ; Times: 5
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 9
+	Country: Singapore ; Times: 9
+	Country: Germany ; Times: 5
+	Country: Bosnia and Herzegovina ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Thailand ; Times: 3
+	Country: Taiwan ; Times: 2
+	Country: Denmark ; Times: 61
+	Country: Poland ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 125
+	Country: Sweden ; Times: 3
+	Country: Russia ; Times: 8
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 24
+	Country: Colombia ; Times: 3
+	Country: Paraguay ; Times: 1
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 4
+	Date: 2019-11-18 ; Times: 6
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-15 ; Times: 23
+	Date: 2019-11-14 ; Times: 13
+	Date: 2019-11-17 ; Times: 2
+	Date: 2019-11-16 ; Times: 9
+	Date: 2019-11-11 ; Times: 10
+	Date: 2019-11-10 ; Times: 6
+	Date: 2019-11-13 ; Times: 6
+	Date: 2019-11-12 ; Times: 7
+	Date: 2019-11-08 ; Times: 13
+	Date: 2019-11-09 ; Times: 5
+	Date: 2019-11-06 ; Times: 11
+	Date: 2019-11-07 ; Times: 35
+	Date: 2019-11-20 ; Times: 16
+	Date: 2019-11-21 ; Times: 12
+	Date: 2019-11-22 ; Times: 6
+	Date: 2019-11-23 ; Times: 4
+	Date: 2019-11-24 ; Times: 5
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-27 ; Times: 2
+	Date: 2019-11-28 ; Times: 10
+	Date: 2019-11-29 ; Times: 8
+	Date: 2019-11-04 ; Times: 17
+	Date: 2019-11-05 ; Times: 3
+	Date: 2019-11-02 ; Times: 2
+	Date: 2019-11-03 ; Times: 45
+	Date: 2019-11-01 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 2
+	Query: "drepanornis" ; Times: 1
+	Query: "Ratufa indica" ; Times: 1
+	Query: "Caretta caretta" ; Times: 2
+	Query: "vampire" ; Times: 1
+	Query: "Thunnus obesus" ; Times: 2
+	Query: "haematopus unicolor" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 7
+	Query: "Uraspis secunda" ; Times: 2
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "johnius sina]" ; Times: 1
+	Query: "specificepithet:rostellifer genus:Choerophryne" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "Elephas maximus" ; Times: 4
+	Query: "etmopterus" ; Times: 5
+	Query: "genus:Antechinomys" ; Times: 1
+	Query: "hyla pentheter" ; Times: 1
+	Query: "saltuarius cornutus" ; Times: 1
+	Query: "specificepithet:cenchroides genus:Falco" ; Times: 4
+	Query: "Cane toad" ; Times: 2
+	Query: "genus:oreostruthus" ; Times: 1
+	Query: "pterodroma cervicalis" ; Times: 6
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "Shovel" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Petauroides volans" ; Times: 2
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "Ichthyophis" ; Times: 1
+	Query: "genus:Rhynochetos" ; Times: 1
+	Query: "Doryrhamphus janssi" ; Times: 1
+	Query: "mene maculata" ; Times: 1
+	Query: "tasmanian devil" ; Times: 4
+	Query: "Calidris canutus rufa 2015" ; Times: 5
+	Query: "Calidris canutus rufa 2016" ; Times: 4
+	Query: "Charadrius melodus 2016" ; Times: 4
+	Query: "genus:Limnonectes specificepithet:ibanorum" ; Times: 1
+	Query: "Pristis zijsron vntype:specimen" ; Times: 2
+	Query: "Agalychnis moreletii" ; Times: 2
+	Query: "specificepithet:ossifragus genus:Corvus" ; Times: 1
+	Query: "genus:Eusphyra" ; Times: 1
+	Query: "Caranx melampygus" ; Times: 1
+	Query: "Brotula multibarbata" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "milvus migrans" ; Times: 2
+	Query: "Connochaetes taurinus" ; Times: 1
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "Scotobleps gabonicus mappable:1" ; Times: 1
+	Query: "order:gymnophiona country:&#34;costa rica&#34; month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Onychogalea fraenata" ; Times: 9
+	Query: "Caranx sexfasciatus" ; Times: 1
+	Query: "neophema chrysogaster" ; Times: 1
+	Query: "specificepithet:valliceps genus:incilius stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Antechinus agilis" ; Times: 7
+	Query: "genus:Babyrousa basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "Delma inornata" ; Times: 1
+	Query: "pachyptila turtur year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "chaerephon solomonis" ; Times: 3
+	Query: "Coturnix coromandelica" ; Times: 1
+	Query: "specificepithet:fortidens genus:Myotis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Macropus eugenii" ; Times: 1
+	Query: "nephrurus levis" ; Times: 3
+	Query: "Agapornis lilianae" ; Times: 3
+	Query: "Coccyzus americanus 1987" ; Times: 4
+	Query: "underwoodisaurus milii" ; Times: 2
+	Query: "specificepithet:volans genus:glaucomys stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "great auk" ; Times: 1
+	Query: "Elephantidae" ; Times: 2
+	Query: "Varanus primordius" ; Times: 1
+	Query: "Phacochoerus aethiopicus" ; Times: 2
+	Query: "genus:Halicmetus" ; Times: 1
+	Query: "Rattus fuscipes" ; Times: 1
+	Query: "specificepithet:rufescens genus:Hylophorbus" ; Times: 2
+	Query: "epimachus" ; Times: 2
+	Query: "Melursus ursinus" ; Times: 5
+	Query: "Pseudocheirus peregrinus" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 1
+	Query: "Aves isfossil:1" ; Times: 1
+	Query: "Aphelocoma coerulescens 2016" ; Times: 4
+	Query: "Aphelocoma coerulescens 2015" ; Times: 2
+	Query: "nephrurus asper" ; Times: 1
+	Query: "specificepithet:speciosus genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Delma borea" ; Times: 1
+	Query: "specificepithet:woodhousii genus:bufo stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "diomedea exulans" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 2
+	Query: "genus:Pseudocarcharias" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 2
+	Query: "Delma butleri" ; Times: 1
+	Query: "capra" ; Times: 1
+	Query: "Andrias vntype:specimen" ; Times: 1
+	Query: "family:Elephantidae isfossil:1" ; Times: 2
+	Query: "passenger pigeon" ; Times: 4
+	Query: "genus:Taudactylus specificepithet:diurnus" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 3
+	Query: "Delma tincta" ; Times: 1
+	Query: "saltuarius wyberba" ; Times: 2
+	Query: "Trichosurus caninus" ; Times: 1
+	Query: "corucia" ; Times: 2
+	Query: "arctic tern" ; Times: 3
+	Query: "Kobus ellipsiprymnus" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "craugastor rugulosus" ; Times: 1
+	Query: "baritji" ; Times: 1
+	Query: "Coccyzus americanus 2015" ; Times: 2
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Limosa lapponica year &gt; 1990" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 2
+	Query: "Oceanites oceanicus exasperatus" ; Times: 1
+	Query: "genus:Leiopelma specificepithet:hochstetteri" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "morelia amethistina" ; Times: 1
+	Query: "morus bassanus" ; Times: 1
+	Query: "Glyptemys insculpta mappable:1" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "himalayan monal" ; Times: 9
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Halicmetus" ; Times: 1
+	Query: "Andrias" ; Times: 4
+	Query: "Sparrowhawk" ; Times: 1
+	Query: "Saltuarius kateae" ; Times: 1
+	Query: "hemiphyllodactylus Thailand" ; Times: 1
+	Query: "family:Elephantidae" ; Times: 2
+	Query: "specificepithet:formosa genus:amandava class:aves" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 11
+	Query: "Sphyraena barracuda vntype:specimen year &gt;= 2000" ; Times: 2
+	Query: "lissocampus runa" ; Times: 1
+	Query: "dendrolagus goodfellowi" ; Times: 1
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "Charadrius melodus 2015" ; Times: 4
+	Query: "Spizella pusilla" ; Times: 1
+	Query: "Hemiphyllodactylus Thailand" ; Times: 2
+	Query: "Balaenoptera musculus" ; Times: 2
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "genus:amandava class:aves year &gt;= 1980" ; Times: 1
+	Query: "karlschmidti" ; Times: 1
+	Query: "pachyptila turtur year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "vntype:specimen genus:Andrias" ; Times: 3
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Petaurus australis" ; Times: 5
+	Query: "platypus" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; continent:Asia" ; Times: 1
+	Query: "Pandion haliaetus year &gt; 1990" ; Times: 1
+	Query: "Pygopus nigriceps" ; Times: 1
+	Query: "vntype:specimen family:emberizidae country:&#34;Korea&#34;" ; Times: 2
+	Query: "Amblyornis macgregoriae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 1367 download events in this period)
+Total number of records downloaded: 5657
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 51
+	Country: Australia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Bosnia and Herzegovina ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Belgium ; Times: 3
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 8
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-14 ; Times: 3
+	Date: 2019-11-17 ; Times: 1
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-12 ; Times: 3
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-21 ; Times: 3
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-06 ; Times: 19
+	Date: 2019-11-07 ; Times: 4
+	Date: 2019-11-04 ; Times: 4
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vini" ; Times: 1
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &lt;= 1930" ; Times: 1
+	Query: "order:Charadriiformes" ; Times: 4
+	Query: "Lepidóptera" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "Cane toad" ; Times: 1
+	Query: "order:Anseriformes" ; Times: 2
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 2
+	Query: "genus:Pituophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 1
+	Query: "SHARP-TAILED SPARROW" ; Times: 1
+	Query: "genus:Babyrousa basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "savannah sparrow" ; Times: 1
+	Query: "Ctenophorus reticulatus" ; Times: 1
+	Query: "specificepithet:speciosus genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "specificepithet:woodhousii genus:bufo stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Andrias" ; Times: 1
+	Query: "etmopterus" ; Times: 1
+	Query: "genus:Chaetodipus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 2
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "neophema chrysogaster" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "genus:Laticauda" ; Times: 1
+	Query: "order:Caprimulgiformes" ; Times: 2
+	Query: "passenger pigeon" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "specificepithet:valliceps genus:incilius stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Melospiza melodia" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "order:Apodiformes" ; Times: 2
+	Query: "Gekkonidae" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 1
+	Query: "genus:Rhynochetos" ; Times: 2
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Africa" ; Times: 1
+	Query: "specificepithet:volans genus:glaucomys stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "wood frog" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "specificepithet:falcatus genus:Campylopterus" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "varanus" ; Times: 1
+	Query: "myotis fortidens" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+	Query: "order:Accipitriformes" ; Times: 1
+
+
+End of report.
