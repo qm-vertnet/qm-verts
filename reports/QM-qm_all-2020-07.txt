@@ -1,0 +1,365 @@
+Report for Institution Code QM, Resource qm_all
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 274
+Number of records retrieved in searches: 1665
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: France ; Times: 84
+	Country: Ireland ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Bolivia ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 8
+	Country: Germany ; Times: 12
+	Country: Spain ; Times: 1
+	Country: Denmark ; Times: 6
+	Country: Philippines ; Times: 4
+	Country: United States ; Times: 75
+	Country: Russia ; Times: 19
+	Country: Mexico ; Times: 31
+	Country: Uruguay ; Times: 5
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Malaysia ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 14
+	Date: 2020-07-08 ; Times: 12
+	Date: 2020-07-21 ; Times: 9
+	Date: 2020-07-20 ; Times: 4
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-26 ; Times: 3
+	Date: 2020-07-25 ; Times: 3
+	Date: 2020-07-22 ; Times: 8
+	Date: 2020-07-01 ; Times: 7
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-02 ; Times: 10
+	Date: 2020-07-05 ; Times: 9
+	Date: 2020-07-04 ; Times: 4
+	Date: 2020-07-07 ; Times: 89
+	Date: 2020-07-06 ; Times: 18
+	Date: 2020-07-24 ; Times: 6
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-29 ; Times: 7
+	Date: 2020-07-18 ; Times: 5
+	Date: 2020-07-19 ; Times: 4
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-10 ; Times: 9
+	Date: 2020-07-11 ; Times: 3
+	Date: 2020-07-16 ; Times: 8
+	Date: 2020-07-17 ; Times: 6
+	Date: 2020-07-14 ; Times: 6
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-30 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "cheilinus undulatus" ; Times: 2
+	Query: "histiopterus typus" ; Times: 1
+	Query: "Benthodesmus tenuis mappable:1" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 1
+	Query: "chionis minor" ; Times: 2
+	Query: "genus:myzomela year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Ziphius" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 20
+	Query: "Lagenodelphis hosei mappable:1" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "Andrias japonicus" ; Times: 2
+	Query: "Seriola dumerili mappable:1" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "Balaenoptera edeni mappable:1" ; Times: 1
+	Query: "Katsuwonus pelamis mappable:1" ; Times: 1
+	Query: "Stenella longirostris mappable:1" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 1
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 1
+	Query: "epinephelus rivulatus" ; Times: 2
+	Query: "Hyperolius balfouri mappable:1" ; Times: 1
+	Query: "epinephelus malabaricus" ; Times: 2
+	Query: "manis crassicaudata" ; Times: 1
+	Query: "Lygosoma bowringii" ; Times: 1
+	Query: "specificepithet:douglassi genus:phrynosoma" ; Times: 1
+	Query: "vntype:specimen specificepithet:maximus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Rostratula australis" ; Times: 3
+	Query: "Ruvettus pretiosus mappable:1" ; Times: 1
+	Query: "Sphyrna mokarran mappable:1" ; Times: 1
+	Query: "notoryctes" ; Times: 1
+	Query: "Eunectes murinus peru" ; Times: 4
+	Query: "Pterois volitans mappable:1" ; Times: 2
+	Query: "Nomeus gronovii mappable:1" ; Times: 1
+	Query: "limbatus" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 3
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 1
+	Query: "sphoeroides pachygaster" ; Times: 1
+	Query: "buteo harlani texas" ; Times: 1
+	Query: "genus:Plecotus" ; Times: 1
+	Query: "rhopodytes viridirostris" ; Times: 1
+	Query: "Peponocephala electra mappable:1" ; Times: 1
+	Query: "family:Phrynosomatidae isfossil:1" ; Times: 1
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 1
+	Query: "Crocodylus porosus" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "Caranx lugubris mappable:1" ; Times: 1
+	Query: "Coryphaena hippurus mappable:1" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 2
+	Query: "20502" ; Times: 1
+	Query: "Makaira nigricans mappable:1" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 2
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Gastrotheca riobambae " ; Times: 1
+	Query: "Echeneis naucrates mappable:1" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 1
+	Query: "Howella brodiei mappable:1" ; Times: 1
+	Query: "epinephelus morrhua" ; Times: 2
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 2
+	Query: "Trachinocephalus myops mappable:1" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Hipposideros diadema" ; Times: 1
+	Query: "Remora brachyptera mappable:1" ; Times: 1
+	Query: "peafowl" ; Times: 3
+	Query: "genus:Laticauda country:&#34;Philippines&#34;" ; Times: 2
+	Query: "Capricornis" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "Nerodia Missouri" ; Times: 1
+	Query: "Eretmochelys imbricata mappable:1" ; Times: 1
+	Query: "class:Reptilia continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "benthosema pterotum" ; Times: 2
+	Query: "Worm-eating warbler vntype:specimen" ; Times: 1
+	Query: "Feresa attenuata mappable:1" ; Times: 1
+	Query: "Eunectes murinus murinus" ; Times: 1
+	Query: "Remora osteochir mappable:1" ; Times: 1
+	Query: "Remora remora mappable:1" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 1
+	Query: "Epigonus" ; Times: 1
+	Query: "Cephalopholis argus mappable:1" ; Times: 2
+	Query: "Antennarius striatus mappable:1" ; Times: 1
+	Query: "Carcharhinus brevipinna mappable:1" ; Times: 1
+	Query: "norfolkia" ; Times: 2
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 2
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "Acanthisitta chloris" ; Times: 1
+	Query: "genus:Triprion specificepithet:petasatus" ; Times: 1
+	Query: "Haematopus unicolor" ; Times: 2
+	Query: "western toad" ; Times: 1
+	Query: "Acanthocybium solandri mappable:1" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "Buteo harlani texas" ; Times: 1
+	Query: "Kaupichthys hyoproroides mappable:1" ; Times: 2
+	Query: "Seriola rivoliana mappable:1" ; Times: 1
+	Query: "Chlidonias albostriata" ; Times: 2
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "acanthophis" ; Times: 3
+	Query: "aegithalos caudatus" ; Times: 2
+	Query: "mohoua ochrocephala" ; Times: 2
+	Query: "Anisotremus surinamensis mappable:1" ; Times: 1
+	Query: "Microphis brachyurus brachyurus mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 2
+	Query: "Todiramphus chloris" ; Times: 1
+	Query: "wattsia" ; Times: 2
+	Query: "Neoscopelus microchir mappable:1" ; Times: 1
+	Query: "Lithobates sphenocephalus" ; Times: 1
+	Query: "Lobotes surinamensis mappable:1" ; Times: 1
+	Query: "genus:quelea" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 1
+	Query: "Hemiphyllodactylus yunnanensis" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "stokesii" ; Times: 1
+	Query: "Turnix velox" ; Times: 1
+	Query: "Fejervarya limnocharis" ; Times: 1
+	Query: "Pipistrellus tenuis" ; Times: 1
+	Query: "Pavo muticus" ; Times: 2
+	Query: "Diaphus adenomus mappable:1" ; Times: 1
+	Query: "adamsi" ; Times: 1
+	Query: "fratercula arctica" ; Times: 1
+	Query: "Todiramphus chloris Vanuatu" ; Times: 1
+	Query: "Cursorius temminckii" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Eunectes murinus murinus peru" ; Times: 1
+	Query: "Lates niloticus" ; Times: 2
+	Query: "specificepithet:poliocephalus genus:Phylloscopus class:Aves" ; Times: 1
+	Query: "genus:Sus" ; Times: 1
+	Query: "polydactylus plebeius" ; Times: 2
+	Query: "Pogonomys" ; Times: 3
+	Query: "family:Molossidae country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 2
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Lepidochelys olivacea mappable:1" ; Times: 1
+	Query: "Huia" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 4
+	Query: "crotalus mitchelli" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "class:Reptilia continent:North America AND (NOT PBDB) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:phrynosoma stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "Plethodon virginia" ; Times: 2
+	Query: "genus:sus" ; Times: 1
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 2
+	Query: "numenius arquata" ; Times: 1
+	Query: "ziphius cavirostris" ; Times: 1
+	Query: "Buteo jamaicensis harlani texas" ; Times: 1
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 1
+	Query: "Bos frontalis" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Parexocoetus brachypterus mappable:1" ; Times: 1
+	Query: "Saccolaimus saccolaimus" ; Times: 1
+	Query: "Caretta caretta mappable:1" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "Pogonomys mollipilosus" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 2
+	Query: "Caranx sexfasciatus mappable:1" ; Times: 1
+	Query: "genus:pedionomus" ; Times: 1
+	Query: "Aprosmictus erythropterus" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "Colaptes pitius" ; Times: 5
+	Query: "Thunnus obesus mappable:1" ; Times: 1
+	Query: "Hipposideros ater" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "Buteo harlani Texas" ; Times: 1
+	Query: "Asterophrys leucopus" ; Times: 5
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "mohoua albicilla" ; Times: 2
+	Query: "Zosterops palpebrosus" ; Times: 1
+	Query: "etelis coruscans" ; Times: 1
+	Query: "Chelonia mydas mappable:1" ; Times: 1
+	Query: "Alectis ciliaris mappable:1" ; Times: 1
+	Query: "Himantopus novaezelandiae" ; Times: 3
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "areolatus" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "specificepithet:biordinis genus:cyrtodactylus" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 1
+	Query: "Euphonia cyanocephala" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "Acanthophis" ; Times: 1
+	Query: "Liza vaigiensis" ; Times: 1
+	Query: "pristipomoides filamentosus" ; Times: 2
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 940 download events in this period)
+Total number of records downloaded: 12874
+Number of different countries: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 6
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 22
+	Country: Guatemala ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 7
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-30 ; Times: 3
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-28 ; Times: 3
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 6
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-29 ; Times: 1
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 3
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 6
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-16 ; Times: 5
+	Date: 2020-07-31 ; Times: 4
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "genus:Incilius" ; Times: 1
+	Query: "class:Amphibia &#34;Osteopilus dominicensis&#34;" ; Times: 1
+	Query: "specificepithet:douglassi genus:phrynosoma" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Bos frontalis" ; Times: 1
+	Query: "Stenella attenuata" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Lamprophiidae" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+	Query: "Epigonus" ; Times: 1
+	Query: "Pavo muticus" ; Times: 3
+	Query: "family:felidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "class:Amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "potos flavus" ; Times: 2
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+
+
+End of report.
