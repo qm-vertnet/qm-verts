@@ -1,0 +1,246 @@
+Report for Institution Code QM, Resource qm_all
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 797
+Number of records retrieved in searches: 10662
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: United Kingdom ; Times: 672
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 12
+	Country: India ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 59
+	Country: Sweden ; Times: 25
+	Country: China ; Times: 8
+	Country: Peru ; Times: 2
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-25 ; Times: 2
+	Date: 2020-06-08 ; Times: 25
+	Date: 2020-06-09 ; Times: 31
+	Date: 2020-06-15 ; Times: 111
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-04 ; Times: 14
+	Date: 2020-06-05 ; Times: 12
+	Date: 2020-06-02 ; Times: 8
+	Date: 2020-06-03 ; Times: 15
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-14 ; Times: 1
+	Date: 2020-06-10 ; Times: 225
+	Date: 2020-06-11 ; Times: 225
+	Date: 2020-06-12 ; Times: 4
+	Date: 2020-06-17 ; Times: 119
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia holbrooki" ; Times: 6
+	Query: "Siganus argenteus" ; Times: 6
+	Query: "Escualosa thoracata" ; Times: 6
+	Query: "ambystoma mexicanum" ; Times: 4
+	Query: "scartelaos histophorus" ; Times: 2
+	Query: "paraplotosus albilabris" ; Times: 2
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "Takifugu poecilonotus" ; Times: 6
+	Query: "samaris cristatus" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "neocyttus rhomboidalis" ; Times: 2
+	Query: "Osteochilus vittatus" ; Times: 12
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "ophisurus serpens" ; Times: 1
+	Query: "lepidorhynchus denticulatus" ; Times: 1
+	Query: "Cyclocheilichthys janthochir" ; Times: 6
+	Query: "Arius maculatus" ; Times: 12
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "Epinephelus multinotatus" ; Times: 2
+	Query: "Glossogobius aureus" ; Times: 6
+	Query: "Paraechinus" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 6
+	Query: "Scomberomorus commerson" ; Times: 9
+	Query: "Hirundichthys oxycephalus" ; Times: 6
+	Query: "Decapterus macrosoma" ; Times: 12
+	Query: "pond turtle" ; Times: 1
+	Query: "eastern wood pewee" ; Times: 1
+	Query: "incilius valliceps" ; Times: 1
+	Query: "Trypauchen vagina" ; Times: 6
+	Query: "Drepanornis albertisi" ; Times: 3
+	Query: "sea turtle" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Arius venosus" ; Times: 6
+	Query: "Gymnocephalus cernua" ; Times: 6
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "Ambassis vachellii" ; Times: 6
+	Query: "Stolephorus insularis" ; Times: 12
+	Query: "rhombosolea tapirina" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 6
+	Query: "Calliophis intestinalis" ; Times: 1
+	Query: "Progne subis mass OR weight" ; Times: 2
+	Query: "Eleotris fusca" ; Times: 6
+	Query: "Thalurania watertonii vntype:specimen" ; Times: 4
+	Query: "panna microdon" ; Times: 1
+	Query: "Nuchequula gerreoides" ; Times: 6
+	Query: "specificepithet:pacificus genus:Indopacetus" ; Times: 1
+	Query: "selenotoca multifasciata" ; Times: 2
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "Selaroides leptolepis" ; Times: 6
+	Query: "Decapterus tabl" ; Times: 6
+	Query: "vampire" ; Times: 1
+	Query: "Hyporhamphus quoyi" ; Times: 12
+	Query: "Astatotilapia burtoni" ; Times: 6
+	Query: "Cyclocheilichthys armatus" ; Times: 6
+	Query: "Sialia sialis mass OR weight" ; Times: 2
+	Query: "Nuchequula longicornis" ; Times: 6
+	Query: "Barbichthys laevis" ; Times: 6
+	Query: "Buteo jamaicensis mass OR weight" ; Times: 2
+	Query: "meuschenia trachylepis" ; Times: 1
+	Query: "Cinetodus crassilabris" ; Times: 6
+	Query: "Sirenia" ; Times: 1
+	Query: "Channa striata" ; Times: 12
+	Query: "Sardinella gibbosa" ; Times: 9
+	Query: "Notopterus notopterus" ; Times: 6
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "Arius arius" ; Times: 12
+	Query: "Anas penelope" ; Times: 6
+	Query: "Labeo chrysophekadion" ; Times: 12
+	Query: "macolor niger" ; Times: 1
+	Query: "Epimachus" ; Times: 15
+	Query: "pelotretis flavilatus" ; Times: 1
+	Query: "Osteogeneiosus militaris" ; Times: 3
+	Query: "lesueurina platycephala" ; Times: 2
+	Query: "kraemeria samoensis" ; Times: 1
+	Query: "great auk" ; Times: 1
+	Query: "Johnius borneensis" ; Times: 9
+	Query: "pseudalutarius nasicornis" ; Times: 1
+	Query: "Sardinella fimbriata" ; Times: 6
+	Query: "thinornis rubricollis" ; Times: 3
+	Query: "genus:trimeresurus" ; Times: 1
+	Query: "Siganus spinus" ; Times: 6
+	Query: "prionodraco evansii" ; Times: 6
+	Query: "Tachycineta bicolor mass OR weight" ; Times: 2
+	Query: "Decapterus muroadsi" ; Times: 6
+	Query: "Arius leptonotacanthus" ; Times: 6
+	Query: "Hilsa kelee" ; Times: 12
+	Query: "Ambassis gymnocephalus" ; Times: 6
+	Query: "drepanornis albertisi" ; Times: 6
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "Mastacembelus armatus" ; Times: 6
+	Query: "Sardinella brachysoma" ; Times: 6
+	Query: "Siganus canaliculatus" ; Times: 6
+	Query: "Anabas testudineus" ; Times: 6
+	Query: "oxyconger leptognathus" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "Chrysopelea paradisi" ; Times: 1
+	Query: "Drepanornis albertisi albertisi" ; Times: 1
+	Query: "Cyclocheilichthys apogon" ; Times: 12
+	Query: "Bos taurus" ; Times: 6
+	Query: "Chrysopelea paradisi vntype:specimen" ; Times: 1
+	Query: "Siganus fuscescens" ; Times: 12
+	Query: "Toxotes chatareus" ; Times: 6
+	Query: "Neotoma lepida" ; Times: 8
+	Query: "Channa micropeltes" ; Times: 12
+	Query: "Sillago sihama" ; Times: 6
+	Query: "schismorhynchus labialis" ; Times: 1
+	Query: "pataecus fronto" ; Times: 1
+	Query: "Puntius brevis" ; Times: 6
+	Query: "Geophagus steindachneri" ; Times: 1
+	Query: "Decapterus russelli" ; Times: 6
+	Query: "smooth green snake" ; Times: 1
+	Query: "Cochlefelis spatula" ; Times: 6
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "Otolithes ruber" ; Times: 12
+	Query: "Lates calcarifer" ; Times: 6
+	Query: "Epinephelus fasciatus" ; Times: 6
+	Query: "Glossogobius giuris" ; Times: 6
+	Query: "Poropuntius normani" ; Times: 6
+	Query: "Priacanthus macracanthus" ; Times: 9
+	Query: "metavelifer multiradiatus" ; Times: 1
+	Query: "Pisodonophis boro" ; Times: 6
+	Query: "Nemipterus furcosus" ; Times: 6
+	Query: "Sterna hirundo mass OR weight" ; Times: 2
+	Query: "Crocodylus johnstoni" ; Times: 2
+	Query: "Alopochen aegyptiacus" ; Times: 6
+	Query: "otolithes ruber" ; Times: 1
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 6
+	Query: "signigobius biocellatus" ; Times: 1
+	Query: "Eleutheronema tetradactylum" ; Times: 9
+	Query: "Nedystoma novaeguineae" ; Times: 6
+	Query: "Epinephelus chlorostigma" ; Times: 6
+	Query: "Ambassis buruensis" ; Times: 6
+	Query: "Atule mate" ; Times: 6
+	Query: "Ambassis miops" ; Times: 6
+	Query: "Sardinella albella" ; Times: 6
+	Query: "Mystacoleucus atridorsalis" ; Times: 6
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Drombus globiceps" ; Times: 6
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Nuchequula flavaxilla" ; Times: 6
+	Query: "Scomber australasicus" ; Times: 9
+	Query: "Butis butis" ; Times: 6
+	Query: "Omobranchus punctatus" ; Times: 1
+	Query: "Thalurania watertonii" ; Times: 5
+	Query: "Carassius auratus" ; Times: 6
+	Query: "Macrognathus siamensis" ; Times: 6
+	Query: "Bagarius yarrelli" ; Times: 6
+	Query: "Puntius semifasciolatus" ; Times: 6
+	Query: "Paratrypauchen microcephalus" ; Times: 9
+	Query: "Gyrinocheilus aymonieri" ; Times: 9
+	Query: "rhynchorhamphus georgii" ; Times: 1
+	Query: "Carassius carassius" ; Times: 6
+	Query: "Pristolepis fasciata" ; Times: 6
+	Query: "platypus" ; Times: 1
+	Query: "Cynotilapia afra" ; Times: 6
+	Query: "collocalia uropygialis" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "Atherina hepsetus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 474 download events in this period)
+Total number of records downloaded: 191
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-04 ; Times: 5
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-10 ; Times: 13
+	Date: 2020-06-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "Tiliqua nigrolutea" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "specificepithet:asiatica order:galliformes" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Tersina viridis" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+
+
+End of report.
